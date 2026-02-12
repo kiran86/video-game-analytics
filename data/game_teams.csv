@@ -40,8 +40,8 @@ ef96407428dc4162,Game Freak
 624220e1828767c6,Bethesda Softworks
 8a562ebdb74bbab8,Konami
 8a562ebdb74bbab8,PlatinumGames
-6e3bda774f33f6b7,Rockstar North
-6e3bda774f33f6b7,Rockstar Games
+0a5cb746a4784355,Rockstar North
+0a5cb746a4784355,Rockstar Games
 183ebdfe9499750e,CD Projekt RED
 89ef99f600bb90b7,Sony Interactive Entertainment
 89ef99f600bb90b7,SIE Santa Monica Studio
@@ -52,8 +52,8 @@ c5fa85d4cf308804,Nintendo
 fa9f159695a079ad,ZA/UM
 53114f8679f237da,Insomniac Games
 53114f8679f237da,Sony Interactive Entertainment
-1074771a540bbb0c,Bandai Namco Entertainment
-1074771a540bbb0c,FromSoftware
+dc32c08d8970eee5,Bandai Namco Entertainment
+dc32c08d8970eee5,FromSoftware
 dda51954ba280b45,Toylogic
 dda51954ba280b45,Square Enix
 d5cf980a3a465a2c,Nintendo
@@ -63,8 +63,8 @@ d5cf980a3a465a2c,Nintendo EAD
 8df474b1f3075b65,Studio MDHR
 55c67fad3e2aec0b,FromSoftware
 55c67fad3e2aec0b,Activision
-232dbbaf26d9f1b7,Square
-232dbbaf26d9f1b7,Eidos Interactive
+9a17a593e1cddc20,Square
+9a17a593e1cddc20,Eidos Interactive
 26cb66a14ffcacb0,NIS America
 26cb66a14ffcacb0,Atlus
 5beed094c61df592,miHoYo
@@ -82,14 +82,14 @@ aa3964cdc33f165d,Capcom
 aa3964cdc33f165d,Capcom Development Division 1
 b7c6e99c6826edc5,id Software
 b7c6e99c6826edc5,Bethesda Softworks
-ef2fde98f0e81d02,Atlus
-ef2fde98f0e81d02,Sega
+17996e36831d09c4,Atlus
+17996e36831d09c4,Sega
 87fcb0cc968de834,Nex Entertainment
 87fcb0cc968de834,Sega
 db70c5a3cd5fec4a,ConcernedApe
 db70c5a3cd5fec4a,Chucklefish Games
-03a8a8892699ae95,Naughty Dog
-03a8a8892699ae95,Sony Interactive Entertainment
+0e687a5bf3034992,Naughty Dog
+0e687a5bf3034992,Sony Interactive Entertainment
 654e21434c106142,Team Silent
 654e21434c106142,Konami
 9b0ed4842b21d1d1,WB Games
@@ -98,8 +98,8 @@ db70c5a3cd5fec4a,Chucklefish Games
 742935e4267ad1ea,Atlus USA
 3bc94c21e5ea4268,Bethesda Softworks
 3bc94c21e5ea4268,id Software
-580c94725142b9d0,Bethesda Game Studios
-580c94725142b9d0,Bethesda Softworks
+70cfbc4816b7bed7,Bethesda Game Studios
+70cfbc4816b7bed7,Bethesda Softworks
 c22beb2dc5f8a41c,Ben Esposito
 c22beb2dc5f8a41c,Annapurna Interactive
 84b5c277c58f1802,Capcom
@@ -107,7 +107,7 @@ c22beb2dc5f8a41c,Annapurna Interactive
 b5691cf2399f55da,Blizzard Entertainment
 35d963894b407f39,Capcom
 35d963894b407f39,Capcom Production Studio 4
-2d427a3173978fe3,Square Enix
+de661fcc0a8f5e4a,Square Enix
 b4e9721f9c988a2d,Sega
 b4e9721f9c988a2d,Sonic Team
 5699e41d6358ae26,Devolver Digital
@@ -148,8 +148,8 @@ c037c7625c28e835,Nintendo EAD
 78af40b082f7fb7c,Re-Logic
 78af40b082f7fb7c,Headup Games
 7a1b70ed4b61c15a,Capcom
-78016877c136304f,Konami
-78016877c136304f,Kojima Productions
+47d5fcff4c154dc9,Konami
+47d5fcff4c154dc9,Kojima Productions
 971629d5c14da1bf,Blizzard Entertainment
 971629d5c14da1bf,Square Enix
 b5d306220a617370,Sierra Entertainment
@@ -224,8 +224,8 @@ e3e8c3b9d389f48f,Nintendo
 1f2d38e3793c5a6c,Devolver Digital
 66047ac4a67c50a9,DON'T NOD
 66047ac4a67c50a9,Square Enix
-d790d262ed3226e1,Bandai Namco Entertainment
-d790d262ed3226e1,FromSoftware
+e075f30cc06b05a9,Bandai Namco Entertainment
+e075f30cc06b05a9,FromSoftware
 a16985341e1b8b87,Bethesda Softworks
 a16985341e1b8b87,Arkane Studios
 07d13847f64b3746,"Sony Computer Entertainment, Inc. (SCEI)"
@@ -291,8 +291,8 @@ bb01fb3d9394ce3e,Giant Sparrow
 6d868c3a9dc2ef34,Nintendo
 6d868c3a9dc2ef34,Game Freak
 a281c9bfec6f15f1,Square Enix
-5dc905bab8e0a621,Ubisoft Montreal
-5dc905bab8e0a621,Ubisoft Entertainment
+e2fcc69a1ae8d52e,Ubisoft Montreal
+e2fcc69a1ae8d52e,Ubisoft Entertainment
 57b37711c7dfdfc6,Nintendo
 57b37711c7dfdfc6,Game Freak
 e90cfe3370ef52c8,EA Redwood Shores
@@ -317,22 +317,22 @@ fa191e68c31a257c,Sony Interactive Entertainment
 8b552815ab8bd47f,Square Enix
 2c07be4597c1962d,Capcom
 2c07be4597c1962d,Grasshopper Manufacture
-d9821e103bf757c6,Rockstar North
-d9821e103bf757c6,Rockstar Games
+4a9c6ff48c4dae65,Rockstar North
+4a9c6ff48c4dae65,Rockstar Games
 f63a67b1c5e20ea7,Nintendo R&D1
 f63a67b1c5e20ea7,Nintendo
-8d1d625e47fbfd5a,Square Electronic Arts
-8d1d625e47fbfd5a,Square
+93e1dcef16b6659d,Square Electronic Arts
+93e1dcef16b6659d,Square
 9bcd43bfb27a85b1,NIS America
 9bcd43bfb27a85b1,Spike ChunSoft
-7c04be35a5e95c74,Square
-7c04be35a5e95c74,Square Electronic Arts
+0f5702bd833f5a3b,Square
+0f5702bd833f5a3b,Square Electronic Arts
 23fc9b02d8f3d95d,Bungie
 23fc9b02d8f3d95d,Microsoft Game Studios
 c507bfb906375077,Nintendo
 c507bfb906375077,Nintendo R&D1
-0de908f1bd385089,Square Enix
-0de908f1bd385089,Square
+bf48fb575e423048,Square Enix
+bf48fb575e423048,Square
 8af3000aeccd8fcb,Ysbryd Games
 8af3000aeccd8fcb,SUKEBAN
 4c112384481154d8,Motion Twin
@@ -368,25 +368,25 @@ ad6a46cc23311785,Capcom
 6a51e872a509984b,Square Enix
 da379202e9df6526,Nintendo
 da379202e9df6526,"Intelligent Systems Co., Ltd."
-bd879c96a4c926b4,"Sony Computer Entertainment, Inc. (SCEI)"
-bd879c96a4c926b4,SIE Santa Monica Studio
+284e9fb5426fd482,"Sony Computer Entertainment, Inc. (SCEI)"
+284e9fb5426fd482,SIE Santa Monica Studio
 5c85c8014d9162d3,BioWare
 5c85c8014d9162d3,Electronic Arts
 594c1bf811d6f186,Playground Games
 594c1bf811d6f186,Xbox Game Studios
-f5df6e08e2ef7864,Konami
-f5df6e08e2ef7864,Kojima Productions
-5e2e2cc1f42fe292,Grasshopper Manufacture
+9bcd44a00704291b,Konami
+9bcd44a00704291b,Kojima Productions
+a740f35c8b34aa92,Grasshopper Manufacture
 9d3028a1440e404c,Microsoft Game Studios
 9d3028a1440e404c,Rare
 4b4847842a43e72d,SIE Japan Studio
 4b4847842a43e72d,Sony Interactive Entertainment
-b280b0f19683fbac,Treyarch
-b280b0f19683fbac,Activision
+6b12b4ca85cce61d,Treyarch
+6b12b4ca85cce61d,Activision
 cf78b9ffd80cd792,Nintendo
 cf78b9ffd80cd792,Nintendo EAD Software Development Group No.3
-b0ba78bf6107e0b9,Rozner Labs Software Group
-b0ba78bf6107e0b9,Nintendo
+075ca276e99a819b,Rozner Labs Software Group
+075ca276e99a819b,Nintendo
 776b4e4751c5effb,Gearbox Publishing
 776b4e4751c5effb,Unknown Worlds Entertainment
 b36f3d0aebcb210a,Housemarque
@@ -413,8 +413,8 @@ f68100130f442d93,Atlus
 0a99994d0e812576,Yacht Club Games
 2fdf4d51dabcdfcd,Panic
 2fdf4d51dabcdfcd,Campo Santo
-d3f6411b8f8d60b7,FromSoftware
-d3f6411b8f8d60b7,Bandai Namco Entertainment
+addc617b8724064f,FromSoftware
+addc617b8724064f,Bandai Namco Entertainment
 f08a6ca5d84109b5,The Game Kitchen
 f08a6ca5d84109b5,Team17
 528d02140380c8e1,Square Enix
@@ -422,8 +422,8 @@ f08a6ca5d84109b5,Team17
 13276bfbb35bb514,Capcom
 b8eafc813bec9f54,Capcom
 b8eafc813bec9f54,Capcom Production Studio 1
-c3aba7eee48b6649,Sony Interactive Entertainment
-c3aba7eee48b6649,Naughty Dog
+e29993277b701f30,Sony Interactive Entertainment
+e29993277b701f30,Naughty Dog
 fb0da607a63fbf82,BlitWorks
 fb0da607a63fbf82,Team Meat
 c8ff9b79d6c440f7,BioWare
@@ -460,8 +460,8 @@ a326aba30e5c9a5d,IO Interactive
 b6d6bf77a9ef36a7,Bandai Namco Entertainment
 b6d6bf77a9ef36a7,Bandai Namco Studios
 4775a8f64f6fd0cd,07th Expansion
-4abc4d9ff3488bea,Buena Vista Games
-4abc4d9ff3488bea,Square Enix
+85ed3b50321bcb37,Buena Vista Games
+85ed3b50321bcb37,Square Enix
 dd797019f11966f8,Pillow Castle Games
 f89a4c283afa0d4e,Kojima Productions
 f89a4c283afa0d4e,505 Games
@@ -528,8 +528,8 @@ a31b465d48e5d3c5,Ubisoft Entertainment
 ab232ab41b61ebec,BioWare Edmonton
 ab232ab41b61ebec,Electronic Arts
 6fb442e816b39e44,Coffee Stain Studios
-e7e47481725e34fd,Bethesda Game Studios
-e7e47481725e34fd,Bethesda Softworks
+4f2552d168fd9a84,Bethesda Game Studios
+4f2552d168fd9a84,Bethesda Softworks
 be15009b6ccf2c0e,Ubisoft Entertainment
 be15009b6ccf2c0e,Ubisoft Montreal
 a78a0664b7426d06,Sledgehammer Games
@@ -567,8 +567,8 @@ facadcd3fb4a6316,SEGA of America
 facadcd3fb4a6316,Sonic Team
 c4ad2dfeedb53aa0,The Pokémon Company
 c4ad2dfeedb53aa0,Game Freak
-3fe8a4121e9fb92d,Nintendo
-3fe8a4121e9fb92d,Nintendo EAD
+f54f7201d2c984d1,Nintendo
+f54f7201d2c984d1,Nintendo EAD
 8690deb164726e38,EA Digital Illusions CE
 8690deb164726e38,Electronic Arts
 b951217c0c627936,Namco Bandai Games
@@ -580,8 +580,8 @@ b951217c0c627936,Spike
 5923ee39039a58ff,Bandai Namco Entertainment
 5923ee39039a58ff,Witchcraft Inc.
 c8265c3c598bee6b,Thunder Lotus Games
-b7aed26607bfdce8,Tarsier Studios
-b7aed26607bfdce8,Bandai Namco Entertainment
+dd099fc9d8059494,Tarsier Studios
+dd099fc9d8059494,Bandai Namco Entertainment
 a7140ae9ddc7e2c1,Tango Gameworks
 a7140ae9ddc7e2c1,Bethesda Softworks
 8194fc7c5c6d0b0a,Ninja Kiwi
@@ -632,8 +632,8 @@ ef96407428dc4162,Game Freak
 624220e1828767c6,Bethesda Softworks
 8a562ebdb74bbab8,Konami
 8a562ebdb74bbab8,PlatinumGames
-6e3bda774f33f6b7,Rockstar North
-6e3bda774f33f6b7,Rockstar Games
+0a5cb746a4784355,Rockstar North
+0a5cb746a4784355,Rockstar Games
 183ebdfe9499750e,CD Projekt RED
 89ef99f600bb90b7,Sony Interactive Entertainment
 89ef99f600bb90b7,SIE Santa Monica Studio
@@ -644,8 +644,8 @@ c5fa85d4cf308804,Nintendo
 fa9f159695a079ad,ZA/UM
 53114f8679f237da,Insomniac Games
 53114f8679f237da,Sony Interactive Entertainment
-1074771a540bbb0c,Bandai Namco Entertainment
-1074771a540bbb0c,FromSoftware
+dc32c08d8970eee5,Bandai Namco Entertainment
+dc32c08d8970eee5,FromSoftware
 dda51954ba280b45,Toylogic
 dda51954ba280b45,Square Enix
 d5cf980a3a465a2c,Nintendo
@@ -655,8 +655,8 @@ d5cf980a3a465a2c,Nintendo EAD
 8df474b1f3075b65,Studio MDHR
 55c67fad3e2aec0b,FromSoftware
 55c67fad3e2aec0b,Activision
-232dbbaf26d9f1b7,Square
-232dbbaf26d9f1b7,Eidos Interactive
+9a17a593e1cddc20,Square
+9a17a593e1cddc20,Eidos Interactive
 26cb66a14ffcacb0,NIS America
 26cb66a14ffcacb0,Atlus
 5beed094c61df592,miHoYo
@@ -674,14 +674,14 @@ aa3964cdc33f165d,Capcom
 aa3964cdc33f165d,Capcom Development Division 1
 b7c6e99c6826edc5,id Software
 b7c6e99c6826edc5,Bethesda Softworks
-ef2fde98f0e81d02,Atlus
-ef2fde98f0e81d02,Sega
+17996e36831d09c4,Atlus
+17996e36831d09c4,Sega
 87fcb0cc968de834,Nex Entertainment
 87fcb0cc968de834,Sega
 db70c5a3cd5fec4a,ConcernedApe
 db70c5a3cd5fec4a,Chucklefish Games
-03a8a8892699ae95,Naughty Dog
-03a8a8892699ae95,Sony Interactive Entertainment
+0e687a5bf3034992,Naughty Dog
+0e687a5bf3034992,Sony Interactive Entertainment
 654e21434c106142,Team Silent
 654e21434c106142,Konami
 9b0ed4842b21d1d1,WB Games
@@ -690,8 +690,8 @@ db70c5a3cd5fec4a,Chucklefish Games
 742935e4267ad1ea,Atlus USA
 3bc94c21e5ea4268,Bethesda Softworks
 3bc94c21e5ea4268,id Software
-580c94725142b9d0,Bethesda Game Studios
-580c94725142b9d0,Bethesda Softworks
+70cfbc4816b7bed7,Bethesda Game Studios
+70cfbc4816b7bed7,Bethesda Softworks
 c22beb2dc5f8a41c,Ben Esposito
 c22beb2dc5f8a41c,Annapurna Interactive
 84b5c277c58f1802,Capcom
@@ -699,7 +699,7 @@ c22beb2dc5f8a41c,Annapurna Interactive
 b5691cf2399f55da,Blizzard Entertainment
 35d963894b407f39,Capcom
 35d963894b407f39,Capcom Production Studio 4
-2d427a3173978fe3,Square Enix
+de661fcc0a8f5e4a,Square Enix
 b4e9721f9c988a2d,Sega
 b4e9721f9c988a2d,Sonic Team
 5699e41d6358ae26,Devolver Digital
@@ -727,8 +727,8 @@ e3e8c3b9d389f48f,Nintendo
 1f2d38e3793c5a6c,Devolver Digital
 66047ac4a67c50a9,DON'T NOD
 66047ac4a67c50a9,Square Enix
-d790d262ed3226e1,Bandai Namco Entertainment
-d790d262ed3226e1,FromSoftware
+e075f30cc06b05a9,Bandai Namco Entertainment
+e075f30cc06b05a9,FromSoftware
 a16985341e1b8b87,Bethesda Softworks
 a16985341e1b8b87,Arkane Studios
 07d13847f64b3746,"Sony Computer Entertainment, Inc. (SCEI)"
@@ -811,8 +811,8 @@ bb01fb3d9394ce3e,Giant Sparrow
 6d868c3a9dc2ef34,Nintendo
 6d868c3a9dc2ef34,Game Freak
 a281c9bfec6f15f1,Square Enix
-5dc905bab8e0a621,Ubisoft Montreal
-5dc905bab8e0a621,Ubisoft Entertainment
+e2fcc69a1ae8d52e,Ubisoft Montreal
+e2fcc69a1ae8d52e,Ubisoft Entertainment
 57b37711c7dfdfc6,Nintendo
 57b37711c7dfdfc6,Game Freak
 e90cfe3370ef52c8,EA Redwood Shores
@@ -848,25 +848,25 @@ ad6a46cc23311785,Capcom
 6a51e872a509984b,Square Enix
 da379202e9df6526,Nintendo
 da379202e9df6526,"Intelligent Systems Co., Ltd."
-bd879c96a4c926b4,"Sony Computer Entertainment, Inc. (SCEI)"
-bd879c96a4c926b4,SIE Santa Monica Studio
+284e9fb5426fd482,"Sony Computer Entertainment, Inc. (SCEI)"
+284e9fb5426fd482,SIE Santa Monica Studio
 5c85c8014d9162d3,BioWare
 5c85c8014d9162d3,Electronic Arts
 594c1bf811d6f186,Playground Games
 594c1bf811d6f186,Xbox Game Studios
-f5df6e08e2ef7864,Konami
-f5df6e08e2ef7864,Kojima Productions
-5e2e2cc1f42fe292,Grasshopper Manufacture
+9bcd44a00704291b,Konami
+9bcd44a00704291b,Kojima Productions
+a740f35c8b34aa92,Grasshopper Manufacture
 9d3028a1440e404c,Microsoft Game Studios
 9d3028a1440e404c,Rare
 4b4847842a43e72d,SIE Japan Studio
 4b4847842a43e72d,Sony Interactive Entertainment
-b280b0f19683fbac,Treyarch
-b280b0f19683fbac,Activision
+6b12b4ca85cce61d,Treyarch
+6b12b4ca85cce61d,Activision
 cf78b9ffd80cd792,Nintendo
 cf78b9ffd80cd792,Nintendo EAD Software Development Group No.3
-b0ba78bf6107e0b9,Rozner Labs Software Group
-b0ba78bf6107e0b9,Nintendo
+075ca276e99a819b,Rozner Labs Software Group
+075ca276e99a819b,Nintendo
 776b4e4751c5effb,Gearbox Publishing
 776b4e4751c5effb,Unknown Worlds Entertainment
 b36f3d0aebcb210a,Housemarque
@@ -893,8 +893,8 @@ f68100130f442d93,Atlus
 0a99994d0e812576,Yacht Club Games
 2fdf4d51dabcdfcd,Panic
 2fdf4d51dabcdfcd,Campo Santo
-d3f6411b8f8d60b7,FromSoftware
-d3f6411b8f8d60b7,Bandai Namco Entertainment
+addc617b8724064f,FromSoftware
+addc617b8724064f,Bandai Namco Entertainment
 f08a6ca5d84109b5,The Game Kitchen
 f08a6ca5d84109b5,Team17
 528d02140380c8e1,Square Enix
@@ -902,8 +902,8 @@ f08a6ca5d84109b5,Team17
 13276bfbb35bb514,Capcom
 b8eafc813bec9f54,Capcom
 b8eafc813bec9f54,Capcom Production Studio 1
-c3aba7eee48b6649,Sony Interactive Entertainment
-c3aba7eee48b6649,Naughty Dog
+e29993277b701f30,Sony Interactive Entertainment
+e29993277b701f30,Naughty Dog
 fb0da607a63fbf82,BlitWorks
 fb0da607a63fbf82,Team Meat
 c8ff9b79d6c440f7,BioWare
@@ -947,7 +947,7 @@ f1843c895d7ad65d,Nintendo
 044ddf81ff5cf707,Rockstar Vancouver
 044ddf81ff5cf707,Take-Two Interactive
 077786c3a617d098,Nintendo
-da7c6144ce0f9a03,Square Enix
+ffa9ce087e96f641,Square Enix
 678474b06eb3deab,Geography of Robots
 678474b06eb3deab,Raw Fury
 3c18b014fadf91fc,Capcom
@@ -972,8 +972,8 @@ a326aba30e5c9a5d,IO Interactive
 b6d6bf77a9ef36a7,Bandai Namco Entertainment
 b6d6bf77a9ef36a7,Bandai Namco Studios
 4775a8f64f6fd0cd,07th Expansion
-4abc4d9ff3488bea,Buena Vista Games
-4abc4d9ff3488bea,Square Enix
+85ed3b50321bcb37,Buena Vista Games
+85ed3b50321bcb37,Square Enix
 dd797019f11966f8,Pillow Castle Games
 f89a4c283afa0d4e,Kojima Productions
 f89a4c283afa0d4e,505 Games
@@ -1055,8 +1055,8 @@ fb4f0491507330bb,Rockstar Games
 41276ab148fd34d9,NIS America
 0e72c492cbe040fd,David Szymanski
 0e72c492cbe040fd,New Blood Interactive
-4b6ce7e910ba9fdd,Bethesda Game Studios
-4b6ce7e910ba9fdd,ZeniMax Media
+74ebe081194fabb2,Bethesda Game Studios
+74ebe081194fabb2,ZeniMax Media
 130cfb44146444be,Roll7
 130cfb44146444be,Private Division
 c6f871810e095079,Square Enix
@@ -1068,10 +1068,10 @@ ae9d31283afde60c,NetherRealm Studios
 ae9d31283afde60c,WB Games
 8890e4a4277420b9,Wiz
 8890e4a4277420b9,"Namco Networks America, Inc."
-881fb91f2113dc0d,Virtuos
-881fb91f2113dc0d,Square Enix
-1c1d058202f22888,NetherRealm Studios
-1c1d058202f22888,WB Games
+d4a46ddc119ba5fc,Virtuos
+d4a46ddc119ba5fc,Square Enix
+72b65b755d712794,NetherRealm Studios
+72b65b755d712794,WB Games
 40b769ce42362b60,Atlus
 40b769ce42362b60,Ghostlight Ltd.
 0717ea75628a9227,THQ Wireless
@@ -1082,8 +1082,8 @@ a63c7344419044bb,Sony Interactive Entertainment
 a63c7344419044bb,Sucker Punch Productions
 e44cfb4482cfbafa,Retro Studios
 e44cfb4482cfbafa,Nintendo
-f0a499c4a23d1976,Capcom
-f0a499c4a23d1976,Virgin Interactive Entertainment
+1bbeab9eb6a19d53,Capcom
+1bbeab9eb6a19d53,Virgin Interactive Entertainment
 7ef603e1c9a13207,Terrible Toybox
 7ef603e1c9a13207,Lucasfilm Games
 66d77279b8de3325,Square Enix
@@ -1098,8 +1098,8 @@ f0a499c4a23d1976,Virgin Interactive Entertainment
 35a451fe3356200f,Annapurna Interactive
 95647d6eb603721f,Nintendo
 95647d6eb603721f,Nintendo EAD
-78092801fa641a7e,MachineGames
-78092801fa641a7e,Bethesda Softworks
+1f27a2c6e3f7e1cf,MachineGames
+1f27a2c6e3f7e1cf,Bethesda Softworks
 66abf09a5f3ba4a7,Nintendo
 66abf09a5f3ba4a7,Game Freak
 6002fc7d3d722271,Subset Games
@@ -1156,10 +1156,10 @@ f27d1d74c85c960d,Vicarious Visions
 5db2ad840f5dc24f,Aksys Games
 5db2ad840f5dc24f,Spike ChunSoft
 4434f58ff737449e,Square Enix
-d3d5df26f906f32a,Neversoft Entertainment
-d3d5df26f906f32a,Activision
-dcda93c69a67e19c,Firaxis Games
-dcda93c69a67e19c,2K Games
+0f8049840e344be8,Neversoft Entertainment
+0f8049840e344be8,Activision
+6cab829fb23af87c,Firaxis Games
+6cab829fb23af87c,2K Games
 e7cf97c82b233ad5,Koei Tecmo Games
 e7cf97c82b233ad5,Team NINJA
 cb179978828ccc33,Microsoft Game Studios
@@ -1176,15 +1176,15 @@ cb179978828ccc33,Epic Games
 d4639236e00372d0,Sega
 d4639236e00372d0,Atlus
 73520b8fc86a4d13,Kojima Productions
-b704e7dac70bb28d,Monolith Soft
-b704e7dac70bb28d,Namco
+5f74b16423cb2d3a,Monolith Soft
+5f74b16423cb2d3a,Namco
 961c0be4d6625a6b,Surefire.Games
 961c0be4d6625a6b,Chris Nordgren
 a01f0579b0273694,Klei Entertainment
 a134380e08b50ba7,Ubisoft Entertainment
 a134380e08b50ba7,Ubisoft San Francisco
-562d6511c4ecf85a,Sony Computer Entertainment
-562d6511c4ecf85a,Red Kite Games
+1b23ef8157579dd6,Sony Computer Entertainment
+1b23ef8157579dd6,Red Kite Games
 0d7643861534d305,Nintendo
 0d7643861534d305,Game Freak
 c16a0c90ef841b18,Nintendo
@@ -1227,7 +1227,7 @@ e6d323ef2bb2aadf,SNK
 e6d323ef2bb2aadf,Nazca Corporation
 c89c203e0e2b56e6,Avalanche Studios
 c89c203e0e2b56e6,Square Enix
-80abe60521f1ad31,Konami
+4e06c9a893f027f9,Konami
 2033da9f746335d3,Media Molecule
 2033da9f746335d3,Sony Computer Entertainment
 8c5c7ed30485f1c9,Nintendo
@@ -1238,8 +1238,8 @@ c89c203e0e2b56e6,Square Enix
 63b5c57e1a3105ca,Airdorf Games
 ec49910f21a34804,Namco
 ec49910f21a34804,Namco Tales Studio
-d7c48b9cfa5518c6,Square Enix
-d7c48b9cfa5518c6,Square
+9afb704d19e387dd,Square Enix
+9afb704d19e387dd,Square
 baec0a03c0bce15f,Bandai Namco Entertainment
 baec0a03c0bce15f,Supermassive Games
 d2892535c6253418,JAST USA
@@ -1288,7 +1288,7 @@ de389ea657920ad2,Capcom
 23f8641911caa633,Project Moon
 f6becd78ad6d8bba,Volition
 f6becd78ad6d8bba,THQ
-49459895f1082d9d,Square Enix
+b2737a0581f89766,Square Enix
 9bab49c488bacfe0,Konami
 76e102522adf9200,2K Games
 76e102522adf9200,Gearbox Software
@@ -1300,13 +1300,13 @@ d460bf1767c5bdac,IO Interactive
 717812338a97ed10,Eidos Interactive
 8d5d96fe633032ce,NEOWIZ
 8d5d96fe633032ce,Round8 Studio
-a83857ac92ded93e,Square Enix
+03e2aaed0cdaa8b6,Square Enix
 28b7fa42f05336b5,Smilebit
 28b7fa42f05336b5,Sega
 f2d6a91020671d30,Ghost Town Games
 f2d6a91020671d30,Team17
-20be92ba45705fbf,Atlus USA
-20be92ba45705fbf,Atlus
+4011389e8fd7576f,Atlus USA
+4011389e8fd7576f,Atlus
 24638a6ac19c7592,X.D. Network Inc.
 24638a6ac19c7592,PeroPeroGames
 cae801296a3ce007,"Intelligent Systems Co., Ltd."
@@ -1387,16 +1387,16 @@ b4cb07f3f434f3b7,Nintendo
 0df9874b5c573a46,Square Enix
 552f075fd543add2,Miniclip.com
 552f075fd543add2,Matheus Valadares
-329e934f0103035f,"Tecmo Co., Ltd."
-329e934f0103035f,Ubisoft Entertainment
+53628a81b6dc6226,"Tecmo Co., Ltd."
+53628a81b6dc6226,Ubisoft Entertainment
 784c7b958efec9eb,Blizzard Entertainment
-53a64e076d980ead,NIS America
-53a64e076d980ead,Nihon Falcom
+a9620e4ef5a9d64f,NIS America
+a9620e4ef5a9d64f,Nihon Falcom
 0dfb6aab3d3eb0b0,Boneloaf
 0dfb6aab3d3eb0b0,Double Fine Productions
 0e0f197f76a1e780,Agetec
 0e0f197f76a1e780,FromSoftware
-589d01dd22bbbfa6,LucasArts
+bb117ab317975bea,LucasArts
 31cc8ffa339078cb,Bandai Namco Entertainment
 31cc8ffa339078cb,FromSoftware
 8ae0eb49b78c86ac,Supergiant Games
@@ -1438,8 +1438,8 @@ ef96407428dc4162,Game Freak
 624220e1828767c6,Bethesda Softworks
 8a562ebdb74bbab8,Konami
 8a562ebdb74bbab8,PlatinumGames
-6e3bda774f33f6b7,Rockstar North
-6e3bda774f33f6b7,Rockstar Games
+0a5cb746a4784355,Rockstar North
+0a5cb746a4784355,Rockstar Games
 183ebdfe9499750e,CD Projekt RED
 89ef99f600bb90b7,Sony Interactive Entertainment
 89ef99f600bb90b7,SIE Santa Monica Studio
@@ -1450,8 +1450,8 @@ c5fa85d4cf308804,Nintendo
 fa9f159695a079ad,ZA/UM
 53114f8679f237da,Insomniac Games
 53114f8679f237da,Sony Interactive Entertainment
-1074771a540bbb0c,Bandai Namco Entertainment
-1074771a540bbb0c,FromSoftware
+dc32c08d8970eee5,Bandai Namco Entertainment
+dc32c08d8970eee5,FromSoftware
 dda51954ba280b45,Toylogic
 dda51954ba280b45,Square Enix
 d5cf980a3a465a2c,Nintendo
@@ -1461,8 +1461,8 @@ d5cf980a3a465a2c,Nintendo EAD
 8df474b1f3075b65,Studio MDHR
 55c67fad3e2aec0b,FromSoftware
 55c67fad3e2aec0b,Activision
-232dbbaf26d9f1b7,Square
-232dbbaf26d9f1b7,Eidos Interactive
+9a17a593e1cddc20,Square
+9a17a593e1cddc20,Eidos Interactive
 26cb66a14ffcacb0,NIS America
 26cb66a14ffcacb0,Atlus
 5beed094c61df592,miHoYo
@@ -1480,14 +1480,14 @@ aa3964cdc33f165d,Capcom
 aa3964cdc33f165d,Capcom Development Division 1
 b7c6e99c6826edc5,id Software
 b7c6e99c6826edc5,Bethesda Softworks
-ef2fde98f0e81d02,Atlus
-ef2fde98f0e81d02,Sega
+17996e36831d09c4,Atlus
+17996e36831d09c4,Sega
 87fcb0cc968de834,Nex Entertainment
 87fcb0cc968de834,Sega
 db70c5a3cd5fec4a,ConcernedApe
 db70c5a3cd5fec4a,Chucklefish Games
-03a8a8892699ae95,Naughty Dog
-03a8a8892699ae95,Sony Interactive Entertainment
+0e687a5bf3034992,Naughty Dog
+0e687a5bf3034992,Sony Interactive Entertainment
 654e21434c106142,Team Silent
 654e21434c106142,Konami
 9b0ed4842b21d1d1,WB Games
@@ -1496,8 +1496,8 @@ db70c5a3cd5fec4a,Chucklefish Games
 742935e4267ad1ea,Atlus USA
 3bc94c21e5ea4268,Bethesda Softworks
 3bc94c21e5ea4268,id Software
-580c94725142b9d0,Bethesda Game Studios
-580c94725142b9d0,Bethesda Softworks
+70cfbc4816b7bed7,Bethesda Game Studios
+70cfbc4816b7bed7,Bethesda Softworks
 c22beb2dc5f8a41c,Ben Esposito
 c22beb2dc5f8a41c,Annapurna Interactive
 84b5c277c58f1802,Capcom
@@ -1505,7 +1505,7 @@ c22beb2dc5f8a41c,Annapurna Interactive
 b5691cf2399f55da,Blizzard Entertainment
 35d963894b407f39,Capcom
 35d963894b407f39,Capcom Production Studio 4
-2d427a3173978fe3,Square Enix
+de661fcc0a8f5e4a,Square Enix
 b4e9721f9c988a2d,Sega
 b4e9721f9c988a2d,Sonic Team
 5699e41d6358ae26,Devolver Digital
@@ -1562,8 +1562,8 @@ e3e8c3b9d389f48f,Nintendo
 1f2d38e3793c5a6c,Devolver Digital
 66047ac4a67c50a9,DON'T NOD
 66047ac4a67c50a9,Square Enix
-d790d262ed3226e1,Bandai Namco Entertainment
-d790d262ed3226e1,FromSoftware
+e075f30cc06b05a9,Bandai Namco Entertainment
+e075f30cc06b05a9,FromSoftware
 a16985341e1b8b87,Bethesda Softworks
 a16985341e1b8b87,Arkane Studios
 07d13847f64b3746,"Sony Computer Entertainment, Inc. (SCEI)"
@@ -1658,11 +1658,11 @@ c458c87af7fa3b83,Devolver Digital
 c458c87af7fa3b83,Acid Nerve
 3419225e97415353,Capcom
 3419225e97415353,Capcom Production Studio 1
-35f0d214c9995dd9,Ubisoft Montreal
-35f0d214c9995dd9,Ubisoft Entertainment
+2316cde4c660a418,Ubisoft Montreal
+2316cde4c660a418,Ubisoft Entertainment
 2df0599ce62ac558,Nintendo
 2df0599ce62ac558,Nintendo EAD Software Development Group No.3
-53d0e23f0a9bcd9a,Square Enix
+5f2a8733a0904af5,Square Enix
 60c15976097a86f3,Nintendo
 60c15976097a86f3,Retro Studios
 771db09e77ad8c51,Sonic Team
@@ -1688,8 +1688,8 @@ a4215b60b1fcbfc7,Xbox Game Studios
 49a8d9086f55f98f,Microsoft Game Studios
 68468dfda987b0bd,3909
 68468dfda987b0bd,Lucas Pope
-5ee3743b759ecd21,Square Enix
-5ee3743b759ecd21,Disney Interactive Studios
+10b51db193390c7b,Square Enix
+10b51db193390c7b,Disney Interactive Studios
 95843a90dc3eb240,ZeniMax Media
 95843a90dc3eb240,Bethesda Game Studios
 08a7a78c5b07b05a,Naughty Dog
@@ -1737,10 +1737,10 @@ cafb80752458c0b3,The Pokémon Company
 cafb80752458c0b3,Niantic Labs
 5b294f00850905a5,Finji
 5b294f00850905a5,Infinite Fall
-c6a8c1c0b502318f,Atlus
-c6a8c1c0b502318f,Nintendo
-bf5bc8e527aaab91,Buena Vista Games
-bf5bc8e527aaab91,Square Enix
+c0126763d77c7945,Atlus
+c0126763d77c7945,Nintendo
+a3fb88fcdd7012be,Buena Vista Games
+a3fb88fcdd7012be,Square Enix
 4b7046bf2f6dc776,Konami Computer Entertainment Tokyo
 4b7046bf2f6dc776,Konami
 11814323685f3839,Bungie
@@ -1761,8 +1761,8 @@ c720f274a378b797,Ubisoft Montreal
 c720f274a378b797,Ubisoft Entertainment
 326b10f78c2101b4,Nintendo
 326b10f78c2101b4,Nintendo EPD Production Group No. 3
-45656165d618b888,Ubisoft Entertainment
-45656165d618b888,Ubisoft Montreal
+25554780c40e2d75,Ubisoft Entertainment
+25554780c40e2d75,Ubisoft Montreal
 e52467fb3c808911,Nintendo
 e52467fb3c808911,Konami
 1fd364994c3d26eb,Nikita Kryukov
@@ -1808,12 +1808,12 @@ eb421fc872c68571,Ben Esposito
 7a009dea753d4529,Tango Gameworks
 b042c4303fc24681,SEGA of Japan
 b042c4303fc24681,Ryū Ga Gotoku Studios
-021e3cd3ab0918cf,Infinity Ward
-021e3cd3ab0918cf,Activision
+ad54e179cbe237c5,Infinity Ward
+ad54e179cbe237c5,Activision
 d750bc79265e4690,Toys for Bob
 d750bc79265e4690,Activision
-cfe90723b1574c1b,DMA Design
-cfe90723b1574c1b,Rockstar Games
+498d4586c582f10f,DMA Design
+498d4586c582f10f,Rockstar Games
 4df789695c8df3cc,Starbreeze publishing AB
 4df789695c8df3cc,Behaviour Interactive
 d0566f3d0a755c3f,505 Games
@@ -1825,10 +1825,10 @@ d0566f3d0a755c3f,Giant Squid
 9c6b39131e4f5cbb,The Pokémon Company
 9c6b39131e4f5cbb,Game Freak
 b083607f5d65c5bf,Ember Lab
-c030fa47f1b59699,Square
-c030fa47f1b59699,Square Enix
-4593436c608f6353,Bethesda Game Studios
-4593436c608f6353,2K Games
+bf175a84edeb4f92,Square
+bf175a84edeb4f92,Square Enix
+6329b399c69fedc3,Bethesda Game Studios
+6329b399c69fedc3,2K Games
 fd2bc62e4e158d19,NIS America
 fd2bc62e4e158d19,Grasshopper Manufacture
 1343c70cfdd4d05c,Insomniac Games
@@ -1845,14 +1845,14 @@ ae882c7eb4d06b4f,Hazelight Studios
 5e446a02136a7ce5,Bandai Namco Entertainment
 5a2b3955a933006d,Team Ico
 5a2b3955a933006d,"Sony Computer Entertainment, Inc. (SCEI)"
-d88dbc03573e7c54,Ghostlight Ltd.
-d88dbc03573e7c54,Atlus
+9afb902c6866acd9,Ghostlight Ltd.
+9afb902c6866acd9,Atlus
 3937e1589e786062,"Thekla, Inc"
 b58ad514e2c45bd3,Nintendo
 b58ad514e2c45bd3,Nintendo EAD Group No. 2
 9ebbdcc6a110bacb,Koei Tecmo Games
 9ebbdcc6a110bacb,Team NINJA
-df0ba8cd229f7055,Square Enix
+7e45b13c15befef4,Square Enix
 cf48b89b23fcc10a,Sega
 cf48b89b23fcc10a,Sonic Team USA
 54f1c9c995bc9c72,Activision
@@ -1902,8 +1902,8 @@ d47bcf8ac1c9db1b,Sonic Team
 d47bcf8ac1c9db1b,Sega
 db396fe91563c796,Volition
 db396fe91563c796,THQ
-994ec48b4b7fff33,Activision
-994ec48b4b7fff33,Treyarch
+a5d4e4814d8b1ef9,Activision
+a5d4e4814d8b1ef9,Treyarch
 637365642362ad70,Nintendo
 637365642362ad70,Game Freak
 813f8a8b5449715c,Splashteam
@@ -1969,17 +1969,17 @@ f036f8d680bef3d7,Studio Zero
 113ff0f96457b314,Electronic Arts
 ebb5654adf5a03d9,Nintendo
 b94690c7f241b783,Atlus
-3c43aa710b27804a,EA Digital Illusions CE
-3c43aa710b27804a,Electronic Arts
+b1d43cd331b4bdca,EA Digital Illusions CE
+b1d43cd331b4bdca,Electronic Arts
 3020c4107f5d7436,Nintendo
 3020c4107f5d7436,Intelligent Systems
 e68b5e07c3acb8a6,Capcom
 2afc9e9617525cbb,Young Horses
-c6e3a1138ec3ca18,Pandemic Studios
-c6e3a1138ec3ca18,LucasArts
+9694b908f27ed8f1,Pandemic Studios
+9694b908f27ed8f1,LucasArts
 739f156c87f3838a,The Pokémon Company
 739f156c87f3838a,Game Freak
-828a0cae7494d42d,Konami
+6c294022eeca67e7,Konami
 132d3e0c5a851b70,Starbreeze Studios
 132d3e0c5a851b70,Spike ChunSoft
 c6825f10a6b7b330,Infinity Ward
@@ -1999,8 +1999,8 @@ ffc3543fcf0ba0c1,Deck13 Interactive
 ffc3543fcf0ba0c1,Radical Fish Games
 ebdce6cab2d053ed,Activision
 ebdce6cab2d053ed,FromSoftware
-9d28c0489c53399b,Volition
-9d28c0489c53399b,Deep Silver
+d2273ca4dfe8cde3,Volition
+d2273ca4dfe8cde3,Deep Silver
 703d66f332988703,Black Isle Studios
 703d66f332988703,Interplay Entertainment
 a19f8f73744d27e5,Square
@@ -2010,8 +2010,8 @@ d69e83309aa4aae3,Square
 d69e83309aa4aae3,Squaresoft
 2e7a3e96c45b427b,Nintendo
 2e7a3e96c45b427b,Level-5
-11efd3346b910a0f,NIS America
-11efd3346b910a0f,Nihon Falcom
+619869ec02598d0a,NIS America
+619869ec02598d0a,Nihon Falcom
 32e4b6d9de9c91f7,Nintendo
 32e4b6d9de9c91f7,Cing
 1000305b22b1b6ff,Running with Scissors
@@ -2036,7 +2036,7 @@ e313aa92dc5cb92c,Capcom
 9db75e5af720e5b1,Sonic Team
 9db75e5af720e5b1,Sega
 71895b41a8c712df,Square Enix
-486d051dd0ee9283,Capcom
+2436b4d816ac8e54,Capcom
 2dcd210e6179d9c7,Jumpship
 c99eedf0874f1fb2,Rockstar Games
 c99eedf0874f1fb2,Rockstar Toronto
@@ -2119,8 +2119,8 @@ dc692b438b6559c8,Capcom
 89df057d4cce14d5,Crunching Koalas
 9f053be12993701d,Ubisoft Shanghai
 9f053be12993701d,Ubisoft
-9d0157120f6759cb,Nintendo
-9d0157120f6759cb,Nintendo R&D1
+29283ed40a41e12a,Nintendo
+29283ed40a41e12a,Nintendo R&D1
 ca4250b53fa0c171,Sega AM2
 ca4250b53fa0c171,Sega
 d2733c30373d4518,The Indie Stone
@@ -2137,8 +2137,8 @@ b98dd350f0ee4450,Devolver Digital
 8770df7c2d516026,Electronic Arts
 9ed0f58fcc3535fc,"Sony Computer Entertainment, Inc. (SCEI)"
 9ed0f58fcc3535fc,SIE Santa Monica Studio
-61d889f9d23f25bb,Namco Bandai Games
-61d889f9d23f25bb,Monolith Soft
+d1112e2b8d149d1b,Namco Bandai Games
+d1112e2b8d149d1b,Monolith Soft
 b3f9f16276523993,Nintendo
 b3f9f16276523993,HAL Laboratory
 b3e09a1c8cf840c6,Konami Computer Entertainment Tokyo
@@ -2148,12 +2148,12 @@ b3e09a1c8cf840c6,Konami Computer Entertainment Tokyo
 b7508dd286679e2b,Arc System Works
 d69ced9b03009569,"Intelligent Systems Co., Ltd."
 d69ced9b03009569,Nintendo
-c7a7ab99eab0bb14,Square Enix
-c7a7ab99eab0bb14,Square
+46d4ab2a98e41d3f,Square Enix
+46d4ab2a98e41d3f,Square
 06fc66b1b78009a3,Capcom Development Division 1
 06fc66b1b78009a3,Capcom
-200c3d87bceaa03e,Konami
-200c3d87bceaa03e,Palcom
+5fdf635ee6fd989c,Konami
+5fdf635ee6fd989c,Palcom
 3fa770d5938b0ccd,New Blood Interactive
 3fa770d5938b0ccd,David Szymanski
 5f2711127116ad05,Activision
@@ -2179,8 +2179,8 @@ cf768cf37d181267,Nintendo EAD Tokyo
 e29dc73a189a5f3b,System Erasure
 e29523f9b8b2eff7,Nippon Ichi Software
 e29523f9b8b2eff7,NIS America
-c0d54a07e5bf924c,Capcom
-c0d54a07e5bf924c,U.S. Gold
+a3c007087afdc197,Capcom
+a3c007087afdc197,U.S. Gold
 142213189eef8214,Tose
 142213189eef8214,Capcom
 2b9580213214db7e,Atlus
@@ -2194,8 +2194,8 @@ c691c79c289f1a50,Telltale Games
 c691c79c289f1a50,Skybound Games
 3e51fc0be1e91b9f,Team NINJA
 3e51fc0be1e91b9f,Tecmo
-c5b15bdcf2ed66d5,2K Games
-c5b15bdcf2ed66d5,Firaxis Games
+2fa75b595dccd0cb,2K Games
+2fa75b595dccd0cb,Firaxis Games
 86772889d6cbd4ae,Ysbryd Games
 86772889d6cbd4ae,panstasz
 4edbd72819acacb0,"Intelligent Systems Co., Ltd."
@@ -2208,8 +2208,8 @@ a001ae45eae83302,Heavy Iron Studios
 a001ae45eae83302,THQ
 d48d0bfce3a4b97a,WB Games
 d48d0bfce3a4b97a,Traveller's Tales
-bd7bc69e72ebcf3b,Chunsoft
-bd7bc69e72ebcf3b,Square Enix
+88bbf34fc414566a,Chunsoft
+88bbf34fc414566a,Square Enix
 a09387a5e8b8de16,Miro Haverinen
 a09387a5e8b8de16,Happy Paintings
 9f356ba1b4023b3e,Ubisoft Entertainment
@@ -2252,7 +2252,7 @@ d35285c22f9750ed,Ubisoft Sofia
 7cdd900064f5b1d7,Euphoric Brothers
 51fa3f7bc63f756f,HAL Laboratory
 51fa3f7bc63f756f,Nintendo
-1e20bf2a299bd3e7,Red Barrels
+216d67fe9567c33a,Red Barrels
 5a6b9cc290133d5a,FromSoftware
 5a6b9cc290133d5a,Bandai Namco Entertainment
 086fa40d50056c4d,"Intelligent Systems Co., Ltd."
@@ -2286,22 +2286,22 @@ b4cb07f3f434f3b7,Nintendo
 0df9874b5c573a46,Square Enix
 552f075fd543add2,Miniclip.com
 552f075fd543add2,Matheus Valadares
-329e934f0103035f,"Tecmo Co., Ltd."
-329e934f0103035f,Ubisoft Entertainment
-923369835b55830a,Bandai Namco Entertainment
-923369835b55830a,Level-5
+53628a81b6dc6226,"Tecmo Co., Ltd."
+53628a81b6dc6226,Ubisoft Entertainment
+fea4b33ac816f5f3,Bandai Namco Entertainment
+fea4b33ac816f5f3,Level-5
 66ee4572e33bcf97,Ultra Games
 66ee4572e33bcf97,Konami
 ba7c28da5bdd6602,Capcom
-74c48454be9aa738,Lionhead Studios
-74c48454be9aa738,Microsoft Game Studios
+cfc5b4e551323b99,Lionhead Studios
+cfc5b4e551323b99,Microsoft Game Studios
 b98c52e3d0499fe5,Extremely OK Games
 02127d820ff64d8d,Nintendo
 02127d820ff64d8d,Thomas Happ Games
 1072d9a9185b760a,Square Enix
 7d69a55ee8cb1462,Sega
-e72011481183f2ac,Nintendo EAD
-e72011481183f2ac,Nintendo
+c506efdf807be1aa,Nintendo EAD
+c506efdf807be1aa,Nintendo
 6ce2a5805676b43c,Nintendo
 6ce2a5805676b43c,Skip Ltd.
 99ad56d697c3f815,Nintendo EAD
@@ -2335,14 +2335,14 @@ ddf2d455f774e92c,Epic Games
 511ca30317fe5a76,Square Enix
 56d0afd782fe882a,Atari
 56d0afd782fe882a,CD Projekt RED
-afc2f18e123fc3b6,Square
-afc2f18e123fc3b6,Square Enix
+def0e34137764377,Square
+def0e34137764377,Square Enix
 ef907549c853c781,Konami
 79e2a7593724e001,etherane
 68218c86bc7f4199,Pandemic Studios
 68218c86bc7f4199,LucasArts
 f8d0151bad791deb,Treasure
-4be848a80bf60720,Blizzard Entertainment
+c6193af0660fc2bf,Blizzard Entertainment
 077b340dafe36826,Nihon Falcom
 077b340dafe36826,XSEED Games
 d329f49194145e43,Rogue Entertainment
@@ -2429,8 +2429,8 @@ b88cc71a5f4cda3b,Nintendo
 b88cc71a5f4cda3b,Hudson Soft
 8e91c562bd0ef25e,PopCap Games
 736c949d8cca5a1d,Ndemic Creations
-f04a27e143a64e3e,LucasArts
-f04a27e143a64e3e,The Collective
+2ae9385a0c8dc7a7,LucasArts
+2ae9385a0c8dc7a7,The Collective
 5c12619079922f90,Ubisoft Entertainment
 5c12619079922f90,Ubisoft Montreal
 476a681063a23466,Looking Glass Studios
@@ -2472,8 +2472,8 @@ d90e79a2c5d95aa3,Activision
 d90e79a2c5d95aa3,Treyarch
 1fd7bff9b56512c3,Flying Wild Hog
 1fd7bff9b56512c3,Majesco Entertainment
-55ee63b9bbcd0f19,Blizzard Entertainment
-55ee63b9bbcd0f19,Sierra Entertainment
+3f6f9beb924cfb63,Blizzard Entertainment
+3f6f9beb924cfb63,Sierra Entertainment
 2a71d966689d3604,Sega
 699a65aa22493c70,Atlus
 ee86d1ed93188901,Arc System Works
@@ -2546,15 +2546,15 @@ c6cb896cb162c36b,Criterion Games
 185efdd10de97785,Nintendo
 621d39f61cf70998,Team17
 621d39f61cf70998,Infogrames Europe
-a74235aa48be234f,Capcom
+e6d35aa24d58eaff,Capcom
 4adf729f1b5dd6fd,Namco
 4adf729f1b5dd6fd,Namco Hometek
 2b62ec804b1f571d,Eidos Interactive
 2b62ec804b1f571d,Crystal Dynamics
 94e4bea04e7b01d8,Capcom Production Studio 3
 94e4bea04e7b01d8,Capcom
-7db7030df404d64e,Square Enix
-7db7030df404d64e,Nintendo
+977400bf1032e846,Square Enix
+977400bf1032e846,Nintendo
 d2d7ebea4f76a9f1,Inti Creates
 d2d7ebea4f76a9f1,Capcom
 44a928556b516f4e,Konami
@@ -2564,10 +2564,10 @@ ac3ff7c3adf3ac20,Team Silent
 ac3ff7c3adf3ac20,Konami
 1e7e36472828dc83,Illfonic
 1e7e36472828dc83,Gun Interactive
-889d48e070d15dae,id Software
-889d48e070d15dae,Activision
+11624d55d3541e26,id Software
+11624d55d3541e26,Activision
 1c39e5ef0695b682,Midway
-fc33cbdb8dfc6e37,Square Enix
+fdd9b9dcfe10031b,Square Enix
 e35f86127dfc55c3,Nintendo
 e35f86127dfc55c3,Nintendo Software Technology
 9c02578d0be32fbe,Lo-Fi Games
@@ -2615,8 +2615,8 @@ d5d8edcd586b7c56,WB Games
 7bde05b57c457f17,Devolver Digital
 0ceddc9e625aa7c6,Electronic Arts
 0ceddc9e625aa7c6,Hypnos Entertainment
-7ca8b5464af24ff0,Chunsoft
-7ca8b5464af24ff0,Enix America Corporation
+6fdd6d80e016399f,Chunsoft
+6fdd6d80e016399f,Enix America Corporation
 0c6602d457a3ffe1,Torn Banner Studios
 0c6602d457a3ffe1,Activision
 428eefa586310f48,EA Sports
@@ -2650,8 +2650,8 @@ f421cedc43b468a6,PopCap Games
 1bb49c201b66f6ba,Sony Computer Entertainment
 f765e80dcb7c90db,BioWare Edmonton
 f765e80dcb7c90db,Electronic Arts
-9cffffcfc3cae627,Square
-9cffffcfc3cae627,Square Soft
+555ce845c3c09fd9,Square
+555ce845c3c09fd9,Square Soft
 fa419e37d90ed904,"Jackbox Games, Inc."
 45ef825c91312b55,Ubisoft Shanghai
 45ef825c91312b55,Ubisoft Entertainment
@@ -2672,8 +2672,8 @@ e9f3ee495b2c9cf3,38 Studios
 e9f3ee495b2c9cf3,Electronic Arts
 17530710d078d948,DMA Design
 17530710d078d948,Take-Two Interactive
-69a381fe4e9a2957,Paradox Interactive
-69a381fe4e9a2957,Paradox Development Studio
+c48689736becbfdc,Paradox Interactive
+c48689736becbfdc,Paradox Development Studio
 771db09e77ad8c51,Aspect Co. Ltd
 771db09e77ad8c51,Sega
 c76c44ccbf3c0832,Activision

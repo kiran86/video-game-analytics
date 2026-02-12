@@ -66,8 +66,8 @@ ef96407428dc4162,Turn Based Strategy
 8a562ebdb74bbab8,Brawler
 8a562ebdb74bbab8,Shooter
 8a562ebdb74bbab8,Strategy
-6e3bda774f33f6b7,Adventure
-6e3bda774f33f6b7,Shooter
+0a5cb746a4784355,Adventure
+0a5cb746a4784355,Shooter
 183ebdfe9499750e,Adventure
 183ebdfe9499750e,RPG
 183ebdfe9499750e,Shooter
@@ -82,8 +82,8 @@ fa9f159695a079ad,Indie
 fa9f159695a079ad,RPG
 53114f8679f237da,Adventure
 53114f8679f237da,Brawler
-1074771a540bbb0c,Adventure
-1074771a540bbb0c,RPG
+dc32c08d8970eee5,Adventure
+dc32c08d8970eee5,RPG
 dda51954ba280b45,Adventure
 dda51954ba280b45,RPG
 d5cf980a3a465a2c,Adventure
@@ -96,9 +96,9 @@ d5cf980a3a465a2c,Platform
 8df474b1f3075b65,Shooter
 55c67fad3e2aec0b,Adventure
 55c67fad3e2aec0b,Brawler
-232dbbaf26d9f1b7,Adventure
-232dbbaf26d9f1b7,RPG
-232dbbaf26d9f1b7,Turn Based Strategy
+9a17a593e1cddc20,Adventure
+9a17a593e1cddc20,RPG
+9a17a593e1cddc20,Turn Based Strategy
 26cb66a14ffcacb0,Adventure
 26cb66a14ffcacb0,RPG
 26cb66a14ffcacb0,Simulator
@@ -120,17 +120,17 @@ c04ab2aaa5fea9e7,Shooter
 aa3964cdc33f165d,Adventure
 aa3964cdc33f165d,Shooter
 b7c6e99c6826edc5,Shooter
-ef2fde98f0e81d02,Adventure
-ef2fde98f0e81d02,RPG
-ef2fde98f0e81d02,Turn Based Strategy
+17996e36831d09c4,Adventure
+17996e36831d09c4,RPG
+17996e36831d09c4,Turn Based Strategy
 87fcb0cc968de834,Brawler
 87fcb0cc968de834,Shooter
 db70c5a3cd5fec4a,Indie
 db70c5a3cd5fec4a,RPG
 db70c5a3cd5fec4a,Simulator
 db70c5a3cd5fec4a,Strategy
-03a8a8892699ae95,Adventure
-03a8a8892699ae95,Shooter
+0e687a5bf3034992,Adventure
+0e687a5bf3034992,Shooter
 654e21434c106142,Adventure
 654e21434c106142,Puzzle
 9b0ed4842b21d1d1,Adventure
@@ -139,8 +139,8 @@ db70c5a3cd5fec4a,Strategy
 742935e4267ad1ea,RPG
 742935e4267ad1ea,Turn Based Strategy
 3bc94c21e5ea4268,Shooter
-580c94725142b9d0,Adventure
-580c94725142b9d0,RPG
+70cfbc4816b7bed7,Adventure
+70cfbc4816b7bed7,RPG
 c22beb2dc5f8a41c,Indie
 c22beb2dc5f8a41c,Platform
 c22beb2dc5f8a41c,Shooter
@@ -149,8 +149,8 @@ c22beb2dc5f8a41c,Visual Novel
 84b5c277c58f1802,Brawler
 b5691cf2399f55da,Shooter
 35d963894b407f39,Shooter
-2d427a3173978fe3,Adventure
-2d427a3173978fe3,RPG
+de661fcc0a8f5e4a,Adventure
+de661fcc0a8f5e4a,RPG
 b4e9721f9c988a2d,Adventure
 b4e9721f9c988a2d,Platform
 5699e41d6358ae26,Adventure
@@ -204,9 +204,9 @@ c037c7625c28e835,Adventure
 78af40b082f7fb7c,Strategy
 7a1b70ed4b61c15a,Adventure
 7a1b70ed4b61c15a,Shooter
-78016877c136304f,Adventure
-78016877c136304f,Shooter
-78016877c136304f,Tactical
+47d5fcff4c154dc9,Adventure
+47d5fcff4c154dc9,Shooter
+47d5fcff4c154dc9,Tactical
 971629d5c14da1bf,Shooter
 971629d5c14da1bf,Strategy
 b5d306220a617370,Shooter
@@ -307,8 +307,8 @@ e3e8c3b9d389f48f,Shooter
 1f2d38e3793c5a6c,Strategy
 66047ac4a67c50a9,Adventure
 66047ac4a67c50a9,RPG
-d790d262ed3226e1,Adventure
-d790d262ed3226e1,RPG
+e075f30cc06b05a9,Adventure
+e075f30cc06b05a9,RPG
 a16985341e1b8b87,Adventure
 a16985341e1b8b87,Shooter
 07d13847f64b3746,Adventure
@@ -388,8 +388,8 @@ bb01fb3d9394ce3e,Puzzle
 6d868c3a9dc2ef34,Turn Based Strategy
 a281c9bfec6f15f1,Brawler
 a281c9bfec6f15f1,RPG
-5dc905bab8e0a621,Adventure
-5dc905bab8e0a621,Platform
+e2fcc69a1ae8d52e,Adventure
+e2fcc69a1ae8d52e,Platform
 57b37711c7dfdfc6,Adventure
 57b37711c7dfdfc6,RPG
 57b37711c7dfdfc6,Turn Based Strategy
@@ -422,25 +422,25 @@ fa191e68c31a257c,Puzzle
 8b552815ab8bd47f,RPG
 2c07be4597c1962d,Adventure
 2c07be4597c1962d,Shooter
-d9821e103bf757c6,Adventure
-d9821e103bf757c6,Racing
-d9821e103bf757c6,Shooter
+4a9c6ff48c4dae65,Adventure
+4a9c6ff48c4dae65,Racing
+4a9c6ff48c4dae65,Shooter
 f63a67b1c5e20ea7,Adventure
 f63a67b1c5e20ea7,Platform
 f63a67b1c5e20ea7,Shooter
-8d1d625e47fbfd5a,Adventure
-8d1d625e47fbfd5a,RPG
+93e1dcef16b6659d,Adventure
+93e1dcef16b6659d,RPG
 9bcd43bfb27a85b1,Adventure
 9bcd43bfb27a85b1,Point-and-Click
 9bcd43bfb27a85b1,Visual Novel
-7c04be35a5e95c74,RPG
-7c04be35a5e95c74,Turn Based Strategy
+0f5702bd833f5a3b,RPG
+0f5702bd833f5a3b,Turn Based Strategy
 23fc9b02d8f3d95d,Shooter
 c507bfb906375077,Adventure
 c507bfb906375077,Platform
 c507bfb906375077,Shooter
-0de908f1bd385089,Adventure
-0de908f1bd385089,RPG
+bf48fb575e423048,Adventure
+bf48fb575e423048,RPG
 8af3000aeccd8fcb,Adventure
 8af3000aeccd8fcb,Indie
 8af3000aeccd8fcb,Simulator
@@ -494,28 +494,28 @@ ad6a46cc23311785,Puzzle
 da379202e9df6526,Adventure
 da379202e9df6526,RPG
 da379202e9df6526,Turn Based Strategy
-bd879c96a4c926b4,Adventure
-bd879c96a4c926b4,Brawler
-bd879c96a4c926b4,Platform
+284e9fb5426fd482,Adventure
+284e9fb5426fd482,Brawler
+284e9fb5426fd482,Platform
 5c85c8014d9162d3,Adventure
 5c85c8014d9162d3,RPG
 5c85c8014d9162d3,Shooter
 594c1bf811d6f186,Racing
-f5df6e08e2ef7864,Adventure
-f5df6e08e2ef7864,RPG
-f5df6e08e2ef7864,Shooter
-f5df6e08e2ef7864,Strategy
-5e2e2cc1f42fe292,Brawler
+9bcd44a00704291b,Adventure
+9bcd44a00704291b,RPG
+9bcd44a00704291b,Shooter
+9bcd44a00704291b,Strategy
+a740f35c8b34aa92,Brawler
 9d3028a1440e404c,Adventure
 9d3028a1440e404c,Platform
 4b4847842a43e72d,Adventure
 4b4847842a43e72d,Platform
-b280b0f19683fbac,Shooter
+6b12b4ca85cce61d,Shooter
 cf78b9ffd80cd792,Adventure
 cf78b9ffd80cd792,RPG
-b0ba78bf6107e0b9,Adventure
-b0ba78bf6107e0b9,Platform
-b0ba78bf6107e0b9,Shooter
+075ca276e99a819b,Adventure
+075ca276e99a819b,Platform
+075ca276e99a819b,Shooter
 776b4e4751c5effb,Adventure
 776b4e4751c5effb,Indie
 b36f3d0aebcb210a,Shooter
@@ -549,8 +549,8 @@ f68100130f442d93,RPG
 0a99994d0e812576,Platform
 2fdf4d51dabcdfcd,Adventure
 2fdf4d51dabcdfcd,Indie
-d3f6411b8f8d60b7,Adventure
-d3f6411b8f8d60b7,RPG
+addc617b8724064f,Adventure
+addc617b8724064f,RPG
 f08a6ca5d84109b5,Adventure
 f08a6ca5d84109b5,Brawler
 f08a6ca5d84109b5,Indie
@@ -567,8 +567,8 @@ f08a6ca5d84109b5,RPG
 b8eafc813bec9f54,Adventure
 b8eafc813bec9f54,Brawler
 b8eafc813bec9f54,Shooter
-c3aba7eee48b6649,Adventure
-c3aba7eee48b6649,Shooter
+e29993277b701f30,Adventure
+e29993277b701f30,Shooter
 fb0da607a63fbf82,Adventure
 fb0da607a63fbf82,Indie
 fb0da607a63fbf82,Platform
@@ -623,11 +623,11 @@ a326aba30e5c9a5d,Tactical
 b6d6bf77a9ef36a7,Fighting
 4775a8f64f6fd0cd,Adventure
 4775a8f64f6fd0cd,Visual Novel
-4abc4d9ff3488bea,Adventure
-4abc4d9ff3488bea,Brawler
-4abc4d9ff3488bea,Platform
-4abc4d9ff3488bea,RPG
-4abc4d9ff3488bea,Shooter
+85ed3b50321bcb37,Adventure
+85ed3b50321bcb37,Brawler
+85ed3b50321bcb37,Platform
+85ed3b50321bcb37,RPG
+85ed3b50321bcb37,Shooter
 dd797019f11966f8,Adventure
 dd797019f11966f8,Indie
 dd797019f11966f8,Puzzle
@@ -721,8 +721,8 @@ ab232ab41b61ebec,Shooter
 6fb442e816b39e44,Adventure
 6fb442e816b39e44,Indie
 6fb442e816b39e44,Simulator
-e7e47481725e34fd,Adventure
-e7e47481725e34fd,RPG
+4f2552d168fd9a84,Adventure
+4f2552d168fd9a84,RPG
 be15009b6ccf2c0e,Adventure
 be15009b6ccf2c0e,Shooter
 a78a0664b7426d06,Adventure
@@ -773,8 +773,8 @@ c4ad2dfeedb53aa0,Adventure
 c4ad2dfeedb53aa0,RPG
 c4ad2dfeedb53aa0,Strategy
 c4ad2dfeedb53aa0,Turn Based Strategy
-3fe8a4121e9fb92d,Adventure
-3fe8a4121e9fb92d,RPG
+f54f7201d2c984d1,Adventure
+f54f7201d2c984d1,RPG
 8690deb164726e38,Shooter
 b951217c0c627936,Fighting
 0a60801e8c9a844e,Arcade
@@ -788,9 +788,9 @@ c8265c3c598bee6b,Adventure
 c8265c3c598bee6b,Indie
 c8265c3c598bee6b,Platform
 c8265c3c598bee6b,Simulator
-b7aed26607bfdce8,Adventure
-b7aed26607bfdce8,Platform
-b7aed26607bfdce8,Puzzle
+dd099fc9d8059494,Adventure
+dd099fc9d8059494,Platform
+dd099fc9d8059494,Puzzle
 a7140ae9ddc7e2c1,Adventure
 a7140ae9ddc7e2c1,RPG
 a7140ae9ddc7e2c1,Shooter
@@ -872,8 +872,8 @@ ef96407428dc4162,Turn Based Strategy
 8a562ebdb74bbab8,Brawler
 8a562ebdb74bbab8,Shooter
 8a562ebdb74bbab8,Strategy
-6e3bda774f33f6b7,Adventure
-6e3bda774f33f6b7,Shooter
+0a5cb746a4784355,Adventure
+0a5cb746a4784355,Shooter
 183ebdfe9499750e,Adventure
 183ebdfe9499750e,RPG
 183ebdfe9499750e,Shooter
@@ -888,8 +888,8 @@ fa9f159695a079ad,Indie
 fa9f159695a079ad,RPG
 53114f8679f237da,Adventure
 53114f8679f237da,Brawler
-1074771a540bbb0c,Adventure
-1074771a540bbb0c,RPG
+dc32c08d8970eee5,Adventure
+dc32c08d8970eee5,RPG
 dda51954ba280b45,Adventure
 dda51954ba280b45,RPG
 d5cf980a3a465a2c,Adventure
@@ -902,9 +902,9 @@ d5cf980a3a465a2c,Platform
 8df474b1f3075b65,Shooter
 55c67fad3e2aec0b,Adventure
 55c67fad3e2aec0b,Brawler
-232dbbaf26d9f1b7,Adventure
-232dbbaf26d9f1b7,RPG
-232dbbaf26d9f1b7,Turn Based Strategy
+9a17a593e1cddc20,Adventure
+9a17a593e1cddc20,RPG
+9a17a593e1cddc20,Turn Based Strategy
 26cb66a14ffcacb0,Adventure
 26cb66a14ffcacb0,RPG
 26cb66a14ffcacb0,Simulator
@@ -926,17 +926,17 @@ c04ab2aaa5fea9e7,Shooter
 aa3964cdc33f165d,Adventure
 aa3964cdc33f165d,Shooter
 b7c6e99c6826edc5,Shooter
-ef2fde98f0e81d02,Adventure
-ef2fde98f0e81d02,RPG
-ef2fde98f0e81d02,Turn Based Strategy
+17996e36831d09c4,Adventure
+17996e36831d09c4,RPG
+17996e36831d09c4,Turn Based Strategy
 87fcb0cc968de834,Brawler
 87fcb0cc968de834,Shooter
 db70c5a3cd5fec4a,Indie
 db70c5a3cd5fec4a,RPG
 db70c5a3cd5fec4a,Simulator
 db70c5a3cd5fec4a,Strategy
-03a8a8892699ae95,Adventure
-03a8a8892699ae95,Shooter
+0e687a5bf3034992,Adventure
+0e687a5bf3034992,Shooter
 654e21434c106142,Adventure
 654e21434c106142,Puzzle
 9b0ed4842b21d1d1,Adventure
@@ -945,8 +945,8 @@ db70c5a3cd5fec4a,Strategy
 742935e4267ad1ea,RPG
 742935e4267ad1ea,Turn Based Strategy
 3bc94c21e5ea4268,Shooter
-580c94725142b9d0,Adventure
-580c94725142b9d0,RPG
+70cfbc4816b7bed7,Adventure
+70cfbc4816b7bed7,RPG
 c22beb2dc5f8a41c,Indie
 c22beb2dc5f8a41c,Platform
 c22beb2dc5f8a41c,Shooter
@@ -955,8 +955,8 @@ c22beb2dc5f8a41c,Visual Novel
 84b5c277c58f1802,Brawler
 b5691cf2399f55da,Shooter
 35d963894b407f39,Shooter
-2d427a3173978fe3,Adventure
-2d427a3173978fe3,RPG
+de661fcc0a8f5e4a,Adventure
+de661fcc0a8f5e4a,RPG
 b4e9721f9c988a2d,Adventure
 b4e9721f9c988a2d,Platform
 5699e41d6358ae26,Adventure
@@ -997,8 +997,8 @@ e3e8c3b9d389f48f,Shooter
 1f2d38e3793c5a6c,Strategy
 66047ac4a67c50a9,Adventure
 66047ac4a67c50a9,RPG
-d790d262ed3226e1,Adventure
-d790d262ed3226e1,RPG
+e075f30cc06b05a9,Adventure
+e075f30cc06b05a9,RPG
 a16985341e1b8b87,Adventure
 a16985341e1b8b87,Shooter
 07d13847f64b3746,Adventure
@@ -1098,8 +1098,8 @@ bb01fb3d9394ce3e,Puzzle
 6d868c3a9dc2ef34,Turn Based Strategy
 a281c9bfec6f15f1,Brawler
 a281c9bfec6f15f1,RPG
-5dc905bab8e0a621,Adventure
-5dc905bab8e0a621,Platform
+e2fcc69a1ae8d52e,Adventure
+e2fcc69a1ae8d52e,Platform
 57b37711c7dfdfc6,Adventure
 57b37711c7dfdfc6,RPG
 57b37711c7dfdfc6,Turn Based Strategy
@@ -1143,28 +1143,28 @@ ad6a46cc23311785,Puzzle
 da379202e9df6526,Adventure
 da379202e9df6526,RPG
 da379202e9df6526,Turn Based Strategy
-bd879c96a4c926b4,Adventure
-bd879c96a4c926b4,Brawler
-bd879c96a4c926b4,Platform
+284e9fb5426fd482,Adventure
+284e9fb5426fd482,Brawler
+284e9fb5426fd482,Platform
 5c85c8014d9162d3,Adventure
 5c85c8014d9162d3,RPG
 5c85c8014d9162d3,Shooter
 594c1bf811d6f186,Racing
-f5df6e08e2ef7864,Adventure
-f5df6e08e2ef7864,RPG
-f5df6e08e2ef7864,Shooter
-f5df6e08e2ef7864,Strategy
-5e2e2cc1f42fe292,Brawler
+9bcd44a00704291b,Adventure
+9bcd44a00704291b,RPG
+9bcd44a00704291b,Shooter
+9bcd44a00704291b,Strategy
+a740f35c8b34aa92,Brawler
 9d3028a1440e404c,Adventure
 9d3028a1440e404c,Platform
 4b4847842a43e72d,Adventure
 4b4847842a43e72d,Platform
-b280b0f19683fbac,Shooter
+6b12b4ca85cce61d,Shooter
 cf78b9ffd80cd792,Adventure
 cf78b9ffd80cd792,RPG
-b0ba78bf6107e0b9,Adventure
-b0ba78bf6107e0b9,Platform
-b0ba78bf6107e0b9,Shooter
+075ca276e99a819b,Adventure
+075ca276e99a819b,Platform
+075ca276e99a819b,Shooter
 776b4e4751c5effb,Adventure
 776b4e4751c5effb,Indie
 b36f3d0aebcb210a,Shooter
@@ -1198,8 +1198,8 @@ f68100130f442d93,RPG
 0a99994d0e812576,Platform
 2fdf4d51dabcdfcd,Adventure
 2fdf4d51dabcdfcd,Indie
-d3f6411b8f8d60b7,Adventure
-d3f6411b8f8d60b7,RPG
+addc617b8724064f,Adventure
+addc617b8724064f,RPG
 f08a6ca5d84109b5,Adventure
 f08a6ca5d84109b5,Brawler
 f08a6ca5d84109b5,Indie
@@ -1216,8 +1216,8 @@ f08a6ca5d84109b5,RPG
 b8eafc813bec9f54,Adventure
 b8eafc813bec9f54,Brawler
 b8eafc813bec9f54,Shooter
-c3aba7eee48b6649,Adventure
-c3aba7eee48b6649,Shooter
+e29993277b701f30,Adventure
+e29993277b701f30,Shooter
 fb0da607a63fbf82,Adventure
 fb0da607a63fbf82,Indie
 fb0da607a63fbf82,Platform
@@ -1280,8 +1280,8 @@ a9702e951e2f48aa,RPG
 f1843c895d7ad65d,Card & Board Game
 044ddf81ff5cf707,Adventure
 077786c3a617d098,Racing
-da7c6144ce0f9a03,RPG
-da7c6144ce0f9a03,Turn Based Strategy
+ffa9ce087e96f641,RPG
+ffa9ce087e96f641,Turn Based Strategy
 678474b06eb3deab,Adventure
 678474b06eb3deab,Indie
 678474b06eb3deab,Point-and-Click
@@ -1319,11 +1319,11 @@ a326aba30e5c9a5d,Tactical
 b6d6bf77a9ef36a7,Fighting
 4775a8f64f6fd0cd,Adventure
 4775a8f64f6fd0cd,Visual Novel
-4abc4d9ff3488bea,Adventure
-4abc4d9ff3488bea,Brawler
-4abc4d9ff3488bea,Platform
-4abc4d9ff3488bea,RPG
-4abc4d9ff3488bea,Shooter
+85ed3b50321bcb37,Adventure
+85ed3b50321bcb37,Brawler
+85ed3b50321bcb37,Platform
+85ed3b50321bcb37,RPG
+85ed3b50321bcb37,Shooter
 dd797019f11966f8,Adventure
 dd797019f11966f8,Indie
 dd797019f11966f8,Puzzle
@@ -1430,8 +1430,8 @@ fb4f0491507330bb,Shooter
 0e72c492cbe040fd,Adventure
 0e72c492cbe040fd,Indie
 0e72c492cbe040fd,Shooter
-4b6ce7e910ba9fdd,Adventure
-4b6ce7e910ba9fdd,RPG
+74ebe081194fabb2,Adventure
+74ebe081194fabb2,RPG
 130cfb44146444be,Adventure
 130cfb44146444be,Indie
 130cfb44146444be,Shooter
@@ -1447,9 +1447,9 @@ d04742936c71d867,Turn Based Strategy
 ae9d31283afde60c,Adventure
 ae9d31283afde60c,Fighting
 8890e4a4277420b9,Arcade
-881fb91f2113dc0d,RPG
-881fb91f2113dc0d,Strategy
-1c1d058202f22888,Fighting
+d4a46ddc119ba5fc,RPG
+d4a46ddc119ba5fc,Strategy
+72b65b755d712794,Fighting
 40b769ce42362b60,RPG
 0717ea75628a9227,Adventure
 0717ea75628a9227,Brawler
@@ -1461,8 +1461,8 @@ a63c7344419044bb,Adventure
 a63c7344419044bb,RPG
 e44cfb4482cfbafa,Adventure
 e44cfb4482cfbafa,Platform
-f0a499c4a23d1976,Arcade
-f0a499c4a23d1976,Fighting
+1bbeab9eb6a19d53,Arcade
+1bbeab9eb6a19d53,Fighting
 7ef603e1c9a13207,Adventure
 7ef603e1c9a13207,Point-and-Click
 7ef603e1c9a13207,Puzzle
@@ -1482,8 +1482,8 @@ f0a499c4a23d1976,Fighting
 35a451fe3356200f,Strategy
 95647d6eb603721f,Adventure
 95647d6eb603721f,Platform
-78092801fa641a7e,Adventure
-78092801fa641a7e,Shooter
+1f27a2c6e3f7e1cf,Adventure
+1f27a2c6e3f7e1cf,Shooter
 66abf09a5f3ba4a7,Adventure
 66abf09a5f3ba4a7,RPG
 66abf09a5f3ba4a7,Turn Based Strategy
@@ -1559,11 +1559,11 @@ f27d1d74c85c960d,Sport
 4434f58ff737449e,Adventure
 4434f58ff737449e,RPG
 4434f58ff737449e,Shooter
-d3d5df26f906f32a,Music
-d3d5df26f906f32a,Simulator
-dcda93c69a67e19c,Simulator
-dcda93c69a67e19c,Strategy
-dcda93c69a67e19c,Turn Based Strategy
+0f8049840e344be8,Music
+0f8049840e344be8,Simulator
+6cab829fb23af87c,Simulator
+6cab829fb23af87c,Strategy
+6cab829fb23af87c,Turn Based Strategy
 e7cf97c82b233ad5,Adventure
 e7cf97c82b233ad5,Brawler
 e7cf97c82b233ad5,RPG
@@ -1589,8 +1589,8 @@ d4639236e00372d0,Simulator
 d4639236e00372d0,Visual Novel
 73520b8fc86a4d13,Adventure
 73520b8fc86a4d13,Shooter
-b704e7dac70bb28d,Adventure
-b704e7dac70bb28d,RPG
+5f74b16423cb2d3a,Adventure
+5f74b16423cb2d3a,RPG
 961c0be4d6625a6b,Adventure
 961c0be4d6625a6b,Indie
 961c0be4d6625a6b,Music
@@ -1602,8 +1602,8 @@ a01f0579b0273694,Strategy
 a134380e08b50ba7,Adventure
 a134380e08b50ba7,RPG
 a134380e08b50ba7,Strategy
-562d6511c4ecf85a,Adventure
-562d6511c4ecf85a,Brawler
+1b23ef8157579dd6,Adventure
+1b23ef8157579dd6,Brawler
 0d7643861534d305,Adventure
 0d7643861534d305,RPG
 0d7643861534d305,Turn Based Strategy
@@ -1665,8 +1665,8 @@ e6d323ef2bb2aadf,Arcade
 e6d323ef2bb2aadf,Platform
 e6d323ef2bb2aadf,Shooter
 c89c203e0e2b56e6,Adventure
-80abe60521f1ad31,RPG
-80abe60521f1ad31,Strategy
+4e06c9a893f027f9,RPG
+4e06c9a893f027f9,Strategy
 2033da9f746335d3,Platform
 8c5c7ed30485f1c9,Adventure
 8c5c7ed30485f1c9,RPG
@@ -1676,8 +1676,8 @@ c89c203e0e2b56e6,Adventure
 63b5c57e1a3105ca,Adventure
 63b5c57e1a3105ca,Indie
 ec49910f21a34804,RPG
-d7c48b9cfa5518c6,RPG
-d7c48b9cfa5518c6,Turn Based Strategy
+9afb704d19e387dd,RPG
+9afb704d19e387dd,Turn Based Strategy
 baec0a03c0bce15f,Adventure
 d2892535c6253418,Visual Novel
 c842af6031484d78,Adventure
@@ -1741,7 +1741,7 @@ de389ea657920ad2,RPG
 f6becd78ad6d8bba,Adventure
 f6becd78ad6d8bba,Racing
 f6becd78ad6d8bba,Shooter
-49459895f1082d9d,
+b2737a0581f89766,
 9bab49c488bacfe0,Adventure
 9bab49c488bacfe0,Platform
 76e102522adf9200,Adventure
@@ -1760,8 +1760,8 @@ d460bf1767c5bdac,Tactical
 717812338a97ed10,Racing
 717812338a97ed10,Shooter
 8d5d96fe633032ce,RPG
-a83857ac92ded93e,Adventure
-a83857ac92ded93e,RPG
+03e2aaed0cdaa8b6,Adventure
+03e2aaed0cdaa8b6,RPG
 28b7fa42f05336b5,Music
 28b7fa42f05336b5,Platform
 28b7fa42f05336b5,Racing
@@ -1770,8 +1770,8 @@ f2d6a91020671d30,Arcade
 f2d6a91020671d30,Indie
 f2d6a91020671d30,Simulator
 f2d6a91020671d30,Strategy
-20be92ba45705fbf,Adventure
-20be92ba45705fbf,RPG
+4011389e8fd7576f,Adventure
+4011389e8fd7576f,RPG
 24638a6ac19c7592,Indie
 24638a6ac19c7592,Music
 cae801296a3ce007,RPG
@@ -1892,19 +1892,19 @@ b4cb07f3f434f3b7,Turn Based Strategy
 0df9874b5c573a46,RPG
 552f075fd543add2,Indie
 552f075fd543add2,Strategy
-329e934f0103035f,Adventure
+53628a81b6dc6226,Adventure
 784c7b958efec9eb,Adventure
 784c7b958efec9eb,RPG
-53a64e076d980ead,Adventure
-53a64e076d980ead,RPG
-53a64e076d980ead,Turn Based Strategy
+a9620e4ef5a9d64f,Adventure
+a9620e4ef5a9d64f,RPG
+a9620e4ef5a9d64f,Turn Based Strategy
 0dfb6aab3d3eb0b0,Fighting
 0dfb6aab3d3eb0b0,Indie
 0e0f197f76a1e780,Shooter
 0e0f197f76a1e780,Strategy
-589d01dd22bbbfa6,Adventure
-589d01dd22bbbfa6,Brawler
-589d01dd22bbbfa6,RPG
+bb117ab317975bea,Adventure
+bb117ab317975bea,Brawler
+bb117ab317975bea,RPG
 31cc8ffa339078cb,Adventure
 31cc8ffa339078cb,RPG
 8ae0eb49b78c86ac,Adventure
@@ -1972,8 +1972,8 @@ ef96407428dc4162,Turn Based Strategy
 8a562ebdb74bbab8,Brawler
 8a562ebdb74bbab8,Shooter
 8a562ebdb74bbab8,Strategy
-6e3bda774f33f6b7,Adventure
-6e3bda774f33f6b7,Shooter
+0a5cb746a4784355,Adventure
+0a5cb746a4784355,Shooter
 183ebdfe9499750e,Adventure
 183ebdfe9499750e,RPG
 183ebdfe9499750e,Shooter
@@ -1988,8 +1988,8 @@ fa9f159695a079ad,Indie
 fa9f159695a079ad,RPG
 53114f8679f237da,Adventure
 53114f8679f237da,Brawler
-1074771a540bbb0c,Adventure
-1074771a540bbb0c,RPG
+dc32c08d8970eee5,Adventure
+dc32c08d8970eee5,RPG
 dda51954ba280b45,Adventure
 dda51954ba280b45,RPG
 d5cf980a3a465a2c,Adventure
@@ -2002,9 +2002,9 @@ d5cf980a3a465a2c,Platform
 8df474b1f3075b65,Shooter
 55c67fad3e2aec0b,Adventure
 55c67fad3e2aec0b,Brawler
-232dbbaf26d9f1b7,Adventure
-232dbbaf26d9f1b7,RPG
-232dbbaf26d9f1b7,Turn Based Strategy
+9a17a593e1cddc20,Adventure
+9a17a593e1cddc20,RPG
+9a17a593e1cddc20,Turn Based Strategy
 26cb66a14ffcacb0,Adventure
 26cb66a14ffcacb0,RPG
 26cb66a14ffcacb0,Simulator
@@ -2026,17 +2026,17 @@ c04ab2aaa5fea9e7,Shooter
 aa3964cdc33f165d,Adventure
 aa3964cdc33f165d,Shooter
 b7c6e99c6826edc5,Shooter
-ef2fde98f0e81d02,Adventure
-ef2fde98f0e81d02,RPG
-ef2fde98f0e81d02,Turn Based Strategy
+17996e36831d09c4,Adventure
+17996e36831d09c4,RPG
+17996e36831d09c4,Turn Based Strategy
 87fcb0cc968de834,Brawler
 87fcb0cc968de834,Shooter
 db70c5a3cd5fec4a,Indie
 db70c5a3cd5fec4a,RPG
 db70c5a3cd5fec4a,Simulator
 db70c5a3cd5fec4a,Strategy
-03a8a8892699ae95,Adventure
-03a8a8892699ae95,Shooter
+0e687a5bf3034992,Adventure
+0e687a5bf3034992,Shooter
 654e21434c106142,Adventure
 654e21434c106142,Puzzle
 9b0ed4842b21d1d1,Adventure
@@ -2045,8 +2045,8 @@ db70c5a3cd5fec4a,Strategy
 742935e4267ad1ea,RPG
 742935e4267ad1ea,Turn Based Strategy
 3bc94c21e5ea4268,Shooter
-580c94725142b9d0,Adventure
-580c94725142b9d0,RPG
+70cfbc4816b7bed7,Adventure
+70cfbc4816b7bed7,RPG
 c22beb2dc5f8a41c,Indie
 c22beb2dc5f8a41c,Platform
 c22beb2dc5f8a41c,Shooter
@@ -2055,8 +2055,8 @@ c22beb2dc5f8a41c,Visual Novel
 84b5c277c58f1802,Brawler
 b5691cf2399f55da,Shooter
 35d963894b407f39,Shooter
-2d427a3173978fe3,Adventure
-2d427a3173978fe3,RPG
+de661fcc0a8f5e4a,Adventure
+de661fcc0a8f5e4a,RPG
 b4e9721f9c988a2d,Adventure
 b4e9721f9c988a2d,Platform
 5699e41d6358ae26,Adventure
@@ -2138,8 +2138,8 @@ e3e8c3b9d389f48f,Shooter
 1f2d38e3793c5a6c,Strategy
 66047ac4a67c50a9,Adventure
 66047ac4a67c50a9,RPG
-d790d262ed3226e1,Adventure
-d790d262ed3226e1,RPG
+e075f30cc06b05a9,Adventure
+e075f30cc06b05a9,RPG
 a16985341e1b8b87,Adventure
 a16985341e1b8b87,Shooter
 07d13847f64b3746,Adventure
@@ -2253,11 +2253,11 @@ c458c87af7fa3b83,RPG
 3419225e97415353,Adventure
 3419225e97415353,Brawler
 3419225e97415353,Shooter
-35f0d214c9995dd9,Adventure
-35f0d214c9995dd9,Platform
+2316cde4c660a418,Adventure
+2316cde4c660a418,Platform
 2df0599ce62ac558,Adventure
 2df0599ce62ac558,RPG
-53d0e23f0a9bcd9a,RPG
+5f2a8733a0904af5,RPG
 60c15976097a86f3,Adventure
 60c15976097a86f3,Platform
 60c15976097a86f3,Shooter
@@ -2294,9 +2294,9 @@ a4215b60b1fcbfc7,Platform
 68468dfda987b0bd,Adventure
 68468dfda987b0bd,Indie
 68468dfda987b0bd,Puzzle
-5ee3743b759ecd21,Adventure
-5ee3743b759ecd21,Brawler
-5ee3743b759ecd21,RPG
+10b51db193390c7b,Adventure
+10b51db193390c7b,Brawler
+10b51db193390c7b,RPG
 95843a90dc3eb240,RPG
 95843a90dc3eb240,Shooter
 08a7a78c5b07b05a,Adventure
@@ -2358,9 +2358,9 @@ cafb80752458c0b3,Simulator
 5b294f00850905a5,Adventure
 5b294f00850905a5,Indie
 5b294f00850905a5,Platform
-c6a8c1c0b502318f,RPG
-bf5bc8e527aaab91,Adventure
-bf5bc8e527aaab91,RPG
+c0126763d77c7945,RPG
+a3fb88fcdd7012be,Adventure
+a3fb88fcdd7012be,RPG
 4b7046bf2f6dc776,Adventure
 4b7046bf2f6dc776,Platform
 4b7046bf2f6dc776,RPG
@@ -2384,8 +2384,8 @@ c720f274a378b797,Adventure
 c720f274a378b797,Platform
 326b10f78c2101b4,Adventure
 326b10f78c2101b4,RPG
-45656165d618b888,Adventure
-45656165d618b888,Strategy
+25554780c40e2d75,Adventure
+25554780c40e2d75,Strategy
 e52467fb3c808911,Adventure
 e52467fb3c808911,Platform
 1fd364994c3d26eb,Adventure
@@ -2439,12 +2439,12 @@ eb421fc872c68571,Puzzle
 7a009dea753d4529,Adventure
 b042c4303fc24681,Adventure
 b042c4303fc24681,Brawler
-021e3cd3ab0918cf,Shooter
+ad54e179cbe237c5,Shooter
 d750bc79265e4690,Platform
-cfe90723b1574c1b,Adventure
-cfe90723b1574c1b,Racing
-cfe90723b1574c1b,Shooter
-cfe90723b1574c1b,Simulator
+498d4586c582f10f,Adventure
+498d4586c582f10f,Racing
+498d4586c582f10f,Shooter
+498d4586c582f10f,Simulator
 4df789695c8df3cc,Indie
 4df789695c8df3cc,Strategy
 d0566f3d0a755c3f,Adventure
@@ -2460,10 +2460,10 @@ d0566f3d0a755c3f,Simulator
 9c6b39131e4f5cbb,Turn Based Strategy
 b083607f5d65c5bf,Adventure
 b083607f5d65c5bf,Indie
-c030fa47f1b59699,Adventure
-c030fa47f1b59699,RPG
-4593436c608f6353,Adventure
-4593436c608f6353,RPG
+bf175a84edeb4f92,Adventure
+bf175a84edeb4f92,RPG
+6329b399c69fedc3,Adventure
+6329b399c69fedc3,RPG
 fd2bc62e4e158d19,Adventure
 fd2bc62e4e158d19,Puzzle
 fd2bc62e4e158d19,Visual Novel
@@ -2481,16 +2481,16 @@ ae882c7eb4d06b4f,Adventure
 5a2b3955a933006d,Adventure
 5a2b3955a933006d,Platform
 5a2b3955a933006d,Puzzle
-d88dbc03573e7c54,RPG
-d88dbc03573e7c54,Turn Based Strategy
+9afb902c6866acd9,RPG
+9afb902c6866acd9,Turn Based Strategy
 3937e1589e786062,Adventure
 3937e1589e786062,Indie
 3937e1589e786062,Puzzle
 b58ad514e2c45bd3,Simulator
 9ebbdcc6a110bacb,Adventure
 9ebbdcc6a110bacb,RPG
-df0ba8cd229f7055,Adventure
-df0ba8cd229f7055,RPG
+7e45b13c15befef4,Adventure
+7e45b13c15befef4,RPG
 cf48b89b23fcc10a,Adventure
 cf48b89b23fcc10a,Platform
 54f1c9c995bc9c72,Adventure
@@ -2553,8 +2553,8 @@ d47bcf8ac1c9db1b,Platform
 db396fe91563c796,Adventure
 db396fe91563c796,Racing
 db396fe91563c796,Shooter
-994ec48b4b7fff33,Adventure
-994ec48b4b7fff33,Shooter
+a5d4e4814d8b1ef9,Adventure
+a5d4e4814d8b1ef9,Shooter
 637365642362ad70,Adventure
 637365642362ad70,RPG
 637365642362ad70,Turn Based Strategy
@@ -2652,8 +2652,8 @@ ebb5654adf5a03d9,Adventure
 ebb5654adf5a03d9,Platform
 b94690c7f241b783,Adventure
 b94690c7f241b783,RPG
-3c43aa710b27804a,Adventure
-3c43aa710b27804a,Shooter
+b1d43cd331b4bdca,Adventure
+b1d43cd331b4bdca,Shooter
 3020c4107f5d7436,Adventure
 3020c4107f5d7436,Platform
 3020c4107f5d7436,RPG
@@ -2664,12 +2664,12 @@ e68b5e07c3acb8a6,Visual Novel
 2afc9e9617525cbb,Adventure
 2afc9e9617525cbb,Indie
 2afc9e9617525cbb,Puzzle
-c6e3a1138ec3ca18,Shooter
+9694b908f27ed8f1,Shooter
 739f156c87f3838a,Adventure
 739f156c87f3838a,RPG
 739f156c87f3838a,Turn Based Strategy
-828a0cae7494d42d,Adventure
-828a0cae7494d42d,Platform
+6c294022eeca67e7,Adventure
+6c294022eeca67e7,Platform
 132d3e0c5a851b70,Adventure
 132d3e0c5a851b70,Indie
 132d3e0c5a851b70,Puzzle
@@ -2695,8 +2695,8 @@ ffc3543fcf0ba0c1,RPG
 ebdce6cab2d053ed,Adventure
 ebdce6cab2d053ed,Brawler
 ebdce6cab2d053ed,RPG
-9d28c0489c53399b,Adventure
-9d28c0489c53399b,Shooter
+d2273ca4dfe8cde3,Adventure
+d2273ca4dfe8cde3,Shooter
 703d66f332988703,RPG
 703d66f332988703,Turn Based Strategy
 a19f8f73744d27e5,RPG
@@ -2708,8 +2708,8 @@ d69e83309aa4aae3,RPG
 2e7a3e96c45b427b,Point-and-Click
 2e7a3e96c45b427b,Puzzle
 2e7a3e96c45b427b,Visual Novel
-11efd3346b910a0f,Adventure
-11efd3346b910a0f,RPG
+619869ec02598d0a,Adventure
+619869ec02598d0a,RPG
 32e4b6d9de9c91f7,Adventure
 32e4b6d9de9c91f7,Point-and-Click
 32e4b6d9de9c91f7,Puzzle
@@ -2745,8 +2745,8 @@ e313aa92dc5cb92c,Puzzle
 e313aa92dc5cb92c,Visual Novel
 9db75e5af720e5b1,Platform
 71895b41a8c712df,Adventure
-486d051dd0ee9283,Arcade
-486d051dd0ee9283,Fighting
+2436b4d816ac8e54,Arcade
+2436b4d816ac8e54,Fighting
 2dcd210e6179d9c7,Adventure
 c99eedf0874f1fb2,Adventure
 0372c920e6f4ef2c,RPG
@@ -2869,9 +2869,9 @@ dc692b438b6559c8,Platform
 89df057d4cce14d5,RPG
 9f053be12993701d,Adventure
 9f053be12993701d,Shooter
-9d0157120f6759cb,Adventure
-9d0157120f6759cb,Platform
-9d0157120f6759cb,Shooter
+29283ed40a41e12a,Adventure
+29283ed40a41e12a,Platform
+29283ed40a41e12a,Shooter
 ca4250b53fa0c171,Adventure
 ca4250b53fa0c171,Brawler
 ca4250b53fa0c171,RPG
@@ -2894,8 +2894,8 @@ b98dd350f0ee4450,Platform
 8770df7c2d516026,Adventure
 9ed0f58fcc3535fc,Adventure
 9ed0f58fcc3535fc,Brawler
-61d889f9d23f25bb,Adventure
-61d889f9d23f25bb,RPG
+d1112e2b8d149d1b,Adventure
+d1112e2b8d149d1b,RPG
 b3f9f16276523993,Adventure
 b3f9f16276523993,Platform
 b3e09a1c8cf840c6,Adventure
@@ -2913,10 +2913,10 @@ b7508dd286679e2b,Fighting
 d69ced9b03009569,RPG
 d69ced9b03009569,Strategy
 d69ced9b03009569,Turn Based Strategy
-c7a7ab99eab0bb14,RPG
+46d4ab2a98e41d3f,RPG
 06fc66b1b78009a3,Brawler
-200c3d87bceaa03e,Adventure
-200c3d87bceaa03e,Platform
+5fdf635ee6fd989c,Adventure
+5fdf635ee6fd989c,Platform
 3fa770d5938b0ccd,Adventure
 3fa770d5938b0ccd,Indie
 3fa770d5938b0ccd,Shooter
@@ -2949,8 +2949,8 @@ e29dc73a189a5f3b,Shooter
 e29523f9b8b2eff7,Adventure
 e29523f9b8b2eff7,RPG
 e29523f9b8b2eff7,Strategy
-c0d54a07e5bf924c,Arcade
-c0d54a07e5bf924c,Fighting
+a3c007087afdc197,Arcade
+a3c007087afdc197,Fighting
 142213189eef8214,Adventure
 142213189eef8214,Shooter
 2b9580213214db7e,RPG
@@ -2968,9 +2968,9 @@ c691c79c289f1a50,Adventure
 c691c79c289f1a50,Point-and-Click
 3e51fc0be1e91b9f,Adventure
 3e51fc0be1e91b9f,Brawler
-c5b15bdcf2ed66d5,Simulator
-c5b15bdcf2ed66d5,Strategy
-c5b15bdcf2ed66d5,Turn Based Strategy
+2fa75b595dccd0cb,Simulator
+2fa75b595dccd0cb,Strategy
+2fa75b595dccd0cb,Turn Based Strategy
 86772889d6cbd4ae,Adventure
 86772889d6cbd4ae,Indie
 86772889d6cbd4ae,Point-and-Click
@@ -2992,7 +2992,7 @@ a001ae45eae83302,Platform
 d48d0bfce3a4b97a,Adventure
 d48d0bfce3a4b97a,Platform
 d48d0bfce3a4b97a,Puzzle
-bd7bc69e72ebcf3b,RPG
+88bbf34fc414566a,RPG
 a09387a5e8b8de16,Indie
 a09387a5e8b8de16,RPG
 9f356ba1b4023b3e,Brawler
@@ -3052,8 +3052,8 @@ d35285c22f9750ed,RPG
 7cdd900064f5b1d7,Indie
 51fa3f7bc63f756f,RPG
 51fa3f7bc63f756f,Turn Based Strategy
-1e20bf2a299bd3e7,Adventure
-1e20bf2a299bd3e7,Indie
+216d67fe9567c33a,Adventure
+216d67fe9567c33a,Indie
 5a6b9cc290133d5a,Adventure
 5a6b9cc290133d5a,RPG
 086fa40d50056c4d,RPG
@@ -3105,16 +3105,16 @@ b4cb07f3f434f3b7,Turn Based Strategy
 0df9874b5c573a46,RPG
 552f075fd543add2,Indie
 552f075fd543add2,Strategy
-329e934f0103035f,Adventure
-923369835b55830a,Adventure
-923369835b55830a,RPG
+53628a81b6dc6226,Adventure
+fea4b33ac816f5f3,Adventure
+fea4b33ac816f5f3,RPG
 66ee4572e33bcf97,Adventure
 66ee4572e33bcf97,Shooter
 ba7c28da5bdd6602,Adventure
 ba7c28da5bdd6602,Arcade
 ba7c28da5bdd6602,Platform
-74c48454be9aa738,Adventure
-74c48454be9aa738,RPG
+cfc5b4e551323b99,Adventure
+cfc5b4e551323b99,RPG
 b98c52e3d0499fe5,Platform
 02127d820ff64d8d,Adventure
 02127d820ff64d8d,Indie
@@ -3125,8 +3125,8 @@ b98c52e3d0499fe5,Platform
 7d69a55ee8cb1462,RPG
 7d69a55ee8cb1462,Simulator
 7d69a55ee8cb1462,Sport
-e72011481183f2ac,Arcade
-e72011481183f2ac,Racing
+c506efdf807be1aa,Arcade
+c506efdf807be1aa,Racing
 6ce2a5805676b43c,Adventure
 6ce2a5805676b43c,Platform
 99ad56d697c3f815,Adventure
@@ -3176,8 +3176,8 @@ ddf2d455f774e92c,Shooter
 511ca30317fe5a76,RPG
 56d0afd782fe882a,Adventure
 56d0afd782fe882a,RPG
-afc2f18e123fc3b6,Adventure
-afc2f18e123fc3b6,RPG
+def0e34137764377,Adventure
+def0e34137764377,RPG
 ef907549c853c781,Adventure
 ef907549c853c781,Point-and-Click
 ef907549c853c781,Shooter
@@ -3191,8 +3191,8 @@ f8d0151bad791deb,Arcade
 f8d0151bad791deb,Indie
 f8d0151bad791deb,Puzzle
 f8d0151bad791deb,Shooter
-4be848a80bf60720,Brawler
-4be848a80bf60720,RPG
+c6193af0660fc2bf,Brawler
+c6193af0660fc2bf,RPG
 077b340dafe36826,Adventure
 077b340dafe36826,RPG
 d329f49194145e43,Adventure
@@ -3308,8 +3308,8 @@ b88cc71a5f4cda3b,Card & Board Game
 736c949d8cca5a1d,Simulator
 736c949d8cca5a1d,Strategy
 736c949d8cca5a1d,Tactical
-f04a27e143a64e3e,Adventure
-f04a27e143a64e3e,Brawler
+2ae9385a0c8dc7a7,Adventure
+2ae9385a0c8dc7a7,Brawler
 5c12619079922f90,Adventure
 5c12619079922f90,Platform
 5c12619079922f90,Puzzle
@@ -3354,8 +3354,8 @@ b503f9784ed050b5,Puzzle
 d90e79a2c5d95aa3,Shooter
 1fd7bff9b56512c3,Adventure
 1fd7bff9b56512c3,Shooter
-55ee63b9bbcd0f19,Real Time Strategy
-55ee63b9bbcd0f19,Strategy
+3f6f9beb924cfb63,Real Time Strategy
+3f6f9beb924cfb63,Strategy
 2a71d966689d3604,Adventure
 2a71d966689d3604,Brawler
 2a71d966689d3604,RPG
@@ -3448,12 +3448,12 @@ c6cb896cb162c36b,Shooter
 621d39f61cf70998,Platform
 621d39f61cf70998,Shooter
 621d39f61cf70998,Strategy
-a74235aa48be234f,Fighting
+e6d35aa24d58eaff,Fighting
 4adf729f1b5dd6fd,Fighting
 2b62ec804b1f571d,Adventure
 94e4bea04e7b01d8,Adventure
 94e4bea04e7b01d8,Platform
-7db7030df404d64e,RPG
+977400bf1032e846,RPG
 d2d7ebea4f76a9f1,Platform
 d2d7ebea4f76a9f1,Shooter
 44a928556b516f4e,Adventure
@@ -3463,10 +3463,10 @@ b08f3cd478002df8,Platform
 b08f3cd478002df8,Puzzle
 ac3ff7c3adf3ac20,Adventure
 1e7e36472828dc83,Indie
-889d48e070d15dae,Shooter
+11624d55d3541e26,Shooter
 1c39e5ef0695b682,Sport
-fc33cbdb8dfc6e37,Adventure
-fc33cbdb8dfc6e37,RPG
+fdd9b9dcfe10031b,Adventure
+fdd9b9dcfe10031b,RPG
 e35f86127dfc55c3,Platform
 e35f86127dfc55c3,Puzzle
 9c02578d0be32fbe,Indie
@@ -3528,7 +3528,7 @@ d5d8edcd586b7c56,Shooter
 7bde05b57c457f17,Strategy
 0ceddc9e625aa7c6,Adventure
 0ceddc9e625aa7c6,Brawler
-7ca8b5464af24ff0,RPG
+6fdd6d80e016399f,RPG
 0c6602d457a3ffe1,Brawler
 0c6602d457a3ffe1,Fighting
 0c6602d457a3ffe1,Indie
@@ -3568,7 +3568,7 @@ f421cedc43b468a6,
 1bb49c201b66f6ba,Shooter
 f765e80dcb7c90db,RPG
 f765e80dcb7c90db,Strategy
-9cffffcfc3cae627,RPG
+555ce845c3c09fd9,RPG
 fa419e37d90ed904,Indie
 fa419e37d90ed904,Puzzle
 fa419e37d90ed904,Quiz/Trivia
@@ -3597,9 +3597,9 @@ e9f3ee495b2c9cf3,RPG
 17530710d078d948,Adventure
 17530710d078d948,Racing
 17530710d078d948,Shooter
-69a381fe4e9a2957,Real Time Strategy
-69a381fe4e9a2957,Simulator
-69a381fe4e9a2957,Strategy
+c48689736becbfdc,Real Time Strategy
+c48689736becbfdc,Simulator
+c48689736becbfdc,Strategy
 771db09e77ad8c51,Adventure
 771db09e77ad8c51,Arcade
 771db09e77ad8c51,Platform
