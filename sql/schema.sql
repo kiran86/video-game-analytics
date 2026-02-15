@@ -26,14 +26,14 @@ CREATE TABLE public.games (
 CREATE TABLE public.genres (
     id SERIAL PRIMARY KEY,
     game_id VARCHAR(255) REFERENCES public.games(id) ON DELETE CASCADE,
-    genre VARCHAR(255) NOT NULL
+    genre VARCHAR(255)
 );
 
 -- Developers table
 CREATE TABLE public.developers (
     id SERIAL PRIMARY KEY,
     game_id VARCHAR(255) REFERENCES public.games(id) ON DELETE CASCADE,
-    developer VARCHAR(255) NOT NULL
+    developer VARCHAR(255)
 );
 
 -- Sales table
@@ -48,5 +48,6 @@ CREATE TABLE public.sales (
     eu_sales FLOAT,
     jp_sales FLOAT,
     other_sales FLOAT,
-    global_sales FLOAT
+    global_sales FLOAT,
+    game_id VARCHAR(255) REFERENCES public.games(id)
 );
